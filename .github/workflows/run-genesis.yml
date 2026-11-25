@@ -35,7 +35,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add genesis_state.json genesis_log.jsonl claude_review.md
+          git add genesis_state.json genesis_log.jsonl
+          if [ -f claude_review.md ]; then git add claude_review.md; fi
           if ! git diff --cached --quiet; then
             git commit -m "Genesis evolution update"
             git push
