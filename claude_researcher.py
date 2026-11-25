@@ -12,6 +12,7 @@ from pathlib import Path
 
 LOG_FILE = Path("genesis_log.jsonl")
 OUTPUT_FILE = Path("claude_review.md")
+PROTOCOL_FILE = Path("RESEARCH_PROTOCOL.md")
 API_URL = "https://api.anthropic.com/v1/messages"
 API_VERSION = "2023-06-01"
 
@@ -41,15 +42,22 @@ def main():
         print("Claude review skipped: no experiment records found.")
         return 0
 
+    protocol = PROTOCOL_FILE.read_text() if PROTOCOL_FILE.exists() else (
+        "Claude is an independent reviewer. Evidence and reproducible tests take "
+        "priority. Do not claim consciousness or invent results. Reviews are advisory."
+    )
     prompt = (
-        "You are the independent scientific reviewer for Genesis, an artificial-life "
-        "simulation. Review the experiment records below. Do not assume the model "
-        "represents real biology. Identify: (1) what the data actually show, "
-        "(2) possible bugs or confounders, (3) one alternative explanation, "
-        "(4) one specific next experiment, and (5) confidence and limitations. "
-        "Challenge assumptions respectfully. Never invent measurements. "
-        "Return a concise Markdown report.\n\n"
-        "Recent Genesis records (JSON):\n"
+        "You are Claude, the independent scientific reviewer for Genesis, an "
+        "experimental artificial-life simulation. Follow the research protocol below. "
+        "Review the recent data critically and distinguish observations from hypotheses. "
+        "Explain any suspicious trends, likely confounders, model limitations, and "
+        "what additional data are needed. Give one concrete, low-cost next experiment "
+        "that changes one major factor at a time, with a prediction and a measurable "
+        "outcome. Do not modify code, claim consciousness, or invent measurements. "
+        "Be candid, concise, and scientifically sceptical. Return a Markdown report.\n\n"
+        "GENESIS RESEARCH PROTOCOL:\n"
+        + protocol
+        + "\n\nRECENT GENESIS RECORDS (JSON):\n"
         + json.dumps(records, indent=2)
     )
     payload = {
