@@ -1,4 +1,3 @@
-
 name: Genesis Daily Evolution
 
 on:
@@ -26,6 +25,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Test Genesis
+        run: python -m unittest -v
+
       - name: Run the simulation
         run: python genesis.py
 
@@ -33,9 +35,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add genesis_state.json genesis_log.txt
+          git add genesis_state.json genesis_log.jsonl
           if ! git diff --cached --quiet; then
             git commit -m "Genesis evolution update"
             git push
           fi
-          
