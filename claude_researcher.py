@@ -43,26 +43,42 @@ def main():
         return 0
 
     protocol = PROTOCOL_FILE.read_text() if PROTOCOL_FILE.exists() else (
-        "Claude is an independent reviewer. Evidence and reproducible tests take "
-        "priority. Do not claim consciousness or invent results. Reviews are advisory."
+        "Genesis is an evolution-first artificial-life experiment. Start with simple "
+        "organisms and investigate how capabilities emerge. Evidence takes priority; "
+        "do not claim consciousness or invent results."
     )
     prompt = (
-        "You are Claude, the independent scientific reviewer for Genesis, an "
-        "experimental artificial-life simulation. Follow the research protocol below. "
-        "Review the recent data critically and distinguish observations from hypotheses. "
-        "Explain any suspicious trends, likely confounders, model limitations, and "
-        "what additional data are needed. Give one concrete, low-cost next experiment "
-        "that changes one major factor at a time, with a prediction and a measurable "
-        "outcome. Do not modify code, claim consciousness, or invent measurements. "
-        "Be candid, concise, and scientifically sceptical. Return a Markdown report.\n\n"
-        "GENESIS RESEARCH PROTOCOL:\n"
+        "You are Claude, the independent scientific adviser to the Director of Genesis. "
+        "ChatGPT is the lead development partner; your role is to offer an independent "
+        "view, not merely agree. Follow the research protocol below. Genesis has chosen "
+        "an evolution-first direction: begin with primitive organisms and let abilities "
+        "develop through variation, inheritance, learning and environmental pressures. "
+        "Do not recommend giving organisms sophisticated intelligence, language or "
+        "self-awareness as a starting feature. Review the recent data critically. "
+        "Separate direct observations from interpretations, hypotheses and recommendations. "
+        "Assess whether the current model supports the evolution-first vision or risks "
+        "hard-coding desired outcomes. Identify important confounders, limitations and "
+        "missing measurements. Give strategic advice when it is useful: what should be "
+        "built next, what should wait, and why. For the immediate next step, propose at "
+        "most one practical low-cost experiment that changes one major factor at a time, "
+        "with a prediction and measurable outcome. If evidence is insufficient or no "
+        "change is justified, say so and recommend what baseline data to collect. "
+        "Do not modify code, claim consciousness, or invent measurements. Be candid, "
+        "concise, scientifically sceptical, and economical. Return a Markdown report.
+
+"
+        "GENESIS RESEARCH PROTOCOL:
+"
         + protocol
-        + "\n\nRECENT GENESIS RECORDS (JSON):\n"
+        + "
+
+RECENT GENESIS RECORDS (JSON):
+"
         + json.dumps(records, indent=2)
     )
     payload = {
         "model": model,
-        "max_tokens": 1400,
+        "max_tokens": 1700,
         "messages": [{"role": "user", "content": prompt}],
     }
     request = urllib.request.Request(
