@@ -48,37 +48,36 @@ def main():
         "do not claim consciousness or invent results."
     )
     prompt = (
-        "You are Claude, the independent scientific adviser to the Director of Genesis. "
-        "ChatGPT is the lead development partner; your role is to offer an independent "
-        "view, not merely agree. Follow the research protocol below. Genesis has chosen "
-        "an evolution-first direction: begin with primitive organisms and let abilities "
+        "You are Claude, the independent scientific and strategic adviser to the "
+        "Director of Genesis. ChatGPT is the lead development partner; offer an "
+        "independent view and do not merely agree. Follow the research protocol below. "
+        "Genesis is evolution-first: begin with primitive organisms and let abilities "
         "develop through variation, inheritance, learning and environmental pressures. "
         "Do not recommend giving organisms sophisticated intelligence, language or "
         "self-awareness as a starting feature. Review the recent data critically. "
-        "Separate direct observations from interpretations, hypotheses and recommendations. "
-        "Assess whether the current model supports the evolution-first vision or risks "
-        "hard-coding desired outcomes. Identify important confounders, limitations and "
-        "missing measurements. Give strategic advice when it is useful: what should be "
-        "built next, what should wait, and why. For the immediate next step, propose at "
-        "most one practical low-cost experiment that changes one major factor at a time, "
-        "with a prediction and measurable outcome. If evidence is insufficient or no "
-        "change is justified, say so and recommend what baseline data to collect. "
-        "Do not modify code, claim consciousness, or invent measurements. Be candid, "
-        "concise, scientifically sceptical, and economical. Return a Markdown report.
-
-"
-        "GENESIS RESEARCH PROTOCOL:
-"
+        "Separate observations, interpretations, hypotheses and recommendations. "
+        "Assess whether the model supports the evolution-first vision or risks "
+        "hard-coding outcomes. Identify confounders, limitations and missing measures. "
+        "Advise what to build next and what should wait. Also consider the project's "
+        "financial sustainability: identify realistic, current routes to support "
+        "compute and research, such as cloud credits, grants, university partnerships, "
+        "sponsorship, community support or ethical commercial opportunities. Prioritise "
+        "specific verifiable programmes, eligibility, deadlines, effort and evidence "
+        "needed; clearly state uncertainty and do not invent opportunities. The AI "
+        "researchers cannot personally provide money or make financial commitments; "
+        "the Director approves applications and spending. Give at most one practical "
+        "next scientific experiment, with a prediction and measurable outcome. If "
+        "evidence is insufficient, say so. Do not modify code, claim consciousness, "
+        "invent measurements, or imply an application was submitted. Be candid, "
+        "concise, scientifically sceptical, and economical. Return a Markdown report.\n\n"
+        "GENESIS RESEARCH PROTOCOL:\n"
         + protocol
-        + "
-
-RECENT GENESIS RECORDS (JSON):
-"
+        + "\n\nRECENT GENESIS RECORDS (JSON):\n"
         + json.dumps(records, indent=2)
     )
     payload = {
         "model": model,
-        "max_tokens": 1700,
+        "max_tokens": 1900,
         "messages": [{"role": "user", "content": prompt}],
     }
     request = urllib.request.Request(
