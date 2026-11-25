@@ -1,0 +1,41 @@
+
+name: Genesis Daily Evolution
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: genesis-simulation
+  cancel-in-progress: false
+
+jobs:
+  evolve:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get Genesis
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the simulation
+        run: python genesis.py
+
+      - name: Save Genesis progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add genesis_state.json genesis_log.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "Genesis evolution update"
+            git push
+          fi
+          
