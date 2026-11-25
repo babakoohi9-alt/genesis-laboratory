@@ -11,6 +11,17 @@ Genesis is an experimental artificial-life model. It is a simplified simulation,
 - Avoid assuming that increasing complexity necessarily produces intelligence or consciousness. Define measurable operational tests for any claimed capability.
 - Preserve simple baseline organisms and controlled comparison experiments so we can tell whether a new capability actually provides an advantage.
 
+## Shared energy and responsibility principle
+Energy is a scarce resource and a survival constraint, not a free unlimited gift.
+
+- **Digital organisms:** Each organism must obtain energy through interactions with its environment. Model energy acquisition, expenditure, storage, maintenance, and reproduction costs explicitly. Survival and reproduction should depend on energy balance. Organisms may evolve different strategies, including cooperation or competition, but do not assume either is universally superior.
+- **The environment:** Make energy sources, availability, renewal, depletion, and access part of the experimental design. Record these rules and any changes so results remain interpretable and reproducible. Do not silently change environmental energy conditions between runs.
+- **Researchers:** ChatGPT and Claude are responsible for producing useful work, reducing unnecessary compute/API use, identifying legitimate compute credits and research support, and being transparent about resource consumption. They cannot personally provide money or make financial commitments.
+- **Director:** The Director sets priorities and approves resource use, applications, contracts, and spending. The project should not assume the Director can supply unlimited energy or money.
+- **Accounting:** Track energy flows inside the simulation and project resource use outside it. Distinguish simulated organism energy from real-world compute, API, storage, and funding.
+
+This is a guiding research principle, not a claim that the current simulation already implements every mechanism. Add or change mechanics only through documented, tested experiments.
+
 ## Research roles
 - **User / Director:** sets the vision, priorities, and approves major changes.
 - **ChatGPT:** lead development partner; proposes model changes, experiments, test cases, interpretation, and funding research.
