@@ -26,7 +26,7 @@ jobs:
           python-version: "3.12"
 
       - name: Test Genesis
-        run: python -m unittest -v
+        run: python -m unittest discover -p 'tests.py' -v
 
       - name: Run the simulation
         run: python genesis.py
