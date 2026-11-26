@@ -1,3162 +1,3624 @@
 {
-  "generation": 100,
-  "next_id": 1375,
+  "generation": 200,
+  "next_id": 3373,
   "agents": [
     {
-      "id": 1156,
-      "generation": 90,
-      "energy": 3.108045474775963,
-      "age": 10,
-      "genome": {
-        "efficiency": 1.7026818249253213,
-        "mobility": 2.0830540879233066,
-        "fertility": 1.1261400976106666
-      }
-    },
-    {
-      "id": 1254,
-      "generation": 95,
-      "energy": 8.616007769319722,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.8720025897732409,
-        "mobility": 1.7914676197675208,
-        "fertility": 1.508734623638813
-      }
-    },
-    {
-      "id": 1015,
-      "generation": 83,
-      "energy": 16.198515254819824,
-      "age": 17,
-      "genome": {
-        "efficiency": 1.6221397363788792,
-        "mobility": 1.5719524076818252,
-        "fertility": 1.1245506985532707
-      }
-    },
-    {
-      "id": 1334,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.8543537354884534,
-        "mobility": 1.6986417364041875,
-        "fertility": 1.480298578921357
-      }
-    },
-    {
-      "id": 1241,
-      "generation": 94,
-      "energy": 2.0,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.4292142810800454,
-        "mobility": 1.5491714970202066,
-        "fertility": 1.7255692304443697
-      }
-    },
-    {
-      "id": 1331,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.4721594339362025,
-        "mobility": 1.584740274805775,
-        "fertility": 1.6119665078381642
-      }
-    },
-    {
-      "id": 1100,
-      "generation": 87,
-      "energy": 4.126467637455969,
-      "age": 13,
-      "genome": {
-        "efficiency": 1.6807186263839964,
-        "mobility": 1.2852053783078672,
-        "fertility": 1.4716141413709853
-      }
-    },
-    {
-      "id": 1146,
-      "generation": 89,
-      "energy": 12.3216882245204,
-      "age": 11,
-      "genome": {
-        "efficiency": 1.4434740187100337,
-        "mobility": 1.9939924696786768,
-        "fertility": 1.8580431770473236
-      }
-    },
-    {
-      "id": 1239,
-      "generation": 94,
-      "energy": 6.531211760943329,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.5104039203144428,
-        "mobility": 1.6121671908782294,
-        "fertility": 1.5861028727909123
-      }
-    },
-    {
-      "id": 1102,
-      "generation": 87,
-      "energy": 4.77924509032524,
-      "age": 13,
-      "genome": {
-        "efficiency": 1.5310272322583602,
-        "mobility": 1.5690590610697548,
-        "fertility": 1.5979030282717526
-      }
-    },
-    {
-      "id": 1134,
-      "generation": 89,
-      "energy": 6.005763189643098,
-      "age": 11,
-      "genome": {
-        "efficiency": 1.5009605316071828,
-        "mobility": 1.8615433185085066,
-        "fertility": 1.7575538217003366
-      }
-    },
-    {
-      "id": 1342,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.709881431564697,
-        "mobility": 1.5250489087002566,
-        "fertility": 1.590301386651272
-      }
-    },
-    {
-      "id": 965,
-      "generation": 80,
-      "energy": 6.486211368465632,
-      "age": 20,
-      "genome": {
-        "efficiency": 1.7071842807054693,
-        "mobility": 1.5099052627147291,
-        "fertility": 1.4039824365691695
-      }
-    },
-    {
-      "id": 1303,
-      "generation": 97,
-      "energy": 11.370452030884746,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.7284086718141243,
-        "mobility": 1.576717909282019,
-        "fertility": 1.3881345430473608
-      }
-    },
-    {
-      "id": 1270,
-      "generation": 95,
-      "energy": 12.18162491821857,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.5302708197030952,
-        "mobility": 2.019872111296787,
-        "fertility": 1.563286804806846
-      }
-    },
-    {
-      "id": 1294,
-      "generation": 97,
-      "energy": 7.950795351442634,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.6502651171475449,
-        "mobility": 1.8529337211955133,
-        "fertility": 1.5381625721480578
-      }
-    },
-    {
-      "id": 1308,
-      "generation": 98,
-      "energy": 9.201132819671919,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.0670442732239727,
-        "mobility": 1.963339960915336,
-        "fertility": 1.4227233848901832
-      }
-    },
-    {
-      "id": 1311,
-      "generation": 98,
-      "energy": 11.28069085626219,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.76023028542073,
-        "mobility": 1.836900817850412,
-        "fertility": 1.6003089110581652
-      }
-    },
-    {
-      "id": 1338,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.3572653676223465,
-        "mobility": 1.6639823739791253,
-        "fertility": 1.6126750352195065
-      }
-    },
-    {
-      "id": 1263,
-      "generation": 95,
-      "energy": 3.0,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.6505173337352395,
-        "mobility": 1.5967914477232144,
-        "fertility": 1.0661543422733992
-      }
-    },
-    {
-      "id": 874,
-      "generation": 73,
-      "energy": 6.91955211380669,
-      "age": 27,
-      "genome": {
-        "efficiency": 1.727970140920446,
-        "mobility": 1.6731481743184755,
-        "fertility": 1.629952023474959
-      }
-    },
-    {
-      "id": 892,
-      "generation": 74,
-      "energy": 14.26465734932397,
-      "age": 26,
-      "genome": {
-        "efficiency": 1.917364635682094,
-        "mobility": 1.6430948024523466,
-        "fertility": 1.4506494290043075
-      }
-    },
-    {
-      "id": 1343,
-      "generation": 99,
-      "energy": 12.033537668045899,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.6778458893486328,
-        "mobility": 2.0929884663634266,
-        "fertility": 1.2031995706292906
-      }
-    },
-    {
-      "id": 1252,
-      "generation": 95,
-      "energy": 7.819202398894028,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.606400799631343,
-        "mobility": 1.4099867866270586,
-        "fertility": 1.5085458337905489
-      }
-    },
-    {
-      "id": 1247,
-      "generation": 94,
-      "energy": 2.652496806697208,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.550832268899069,
-        "mobility": 1.7111714904985549,
-        "fertility": 1.6190155573826794
-      }
-    },
-    {
-      "id": 1195,
-      "generation": 92,
-      "energy": 13.154112458818915,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.9060124954243238,
-        "mobility": 1.6469738220683472,
-        "fertility": 1.5518801448614326
-      }
-    },
-    {
-      "id": 733,
-      "generation": 64,
-      "energy": 11.033568360617664,
-      "age": 36,
-      "genome": {
-        "efficiency": 1.7930653483590695,
-        "mobility": 1.757202720111341,
-        "fertility": 1.3950513610904753
-      }
-    },
-    {
-      "id": 1164,
-      "generation": 90,
-      "energy": 2.8505827450316437,
-      "age": 10,
-      "genome": {
-        "efficiency": 1.616860915010548,
-        "mobility": 1.7988371883085892,
-        "fertility": 1.1029427751311
-      }
-    },
-    {
-      "id": 1161,
-      "generation": 90,
-      "energy": 5.789668911838135,
-      "age": 10,
-      "genome": {
-        "efficiency": 1.6316114853063557,
-        "mobility": 1.4057375354499455,
-        "fertility": 1.587746256313725
-      }
-    },
-    {
-      "id": 1178,
-      "generation": 91,
-      "energy": 2.6994897288294695,
-      "age": 9,
-      "genome": {
-        "efficiency": 1.2331632429431565,
-        "mobility": 1.5431180317498638,
-        "fertility": 1.696085686958893
-      }
-    },
-    {
-      "id": 996,
-      "generation": 81,
-      "energy": 15.42600202302885,
-      "age": 19,
-      "genome": {
-        "efficiency": 1.8014445568349362,
-        "mobility": 1.7867432439890236,
-        "fertility": 1.574793112973403
-      }
-    },
-    {
-      "id": 1169,
-      "generation": 91,
-      "energy": 18.14735333536963,
-      "age": 9,
-      "genome": {
-        "efficiency": 1.7622794446141354,
-        "mobility": 1.7434025288587804,
-        "fertility": 1.2167139791532997
-      }
-    },
-    {
-      "id": 1088,
-      "generation": 86,
-      "energy": 0.06423635766486324,
-      "age": 14,
-      "genome": {
-        "efficiency": 1.1182484841849847,
-        "mobility": 1.8376937426240922,
-        "fertility": 1.3982901930329141
-      }
-    },
-    {
-      "id": 1248,
-      "generation": 94,
-      "energy": 16.478108347531112,
-      "age": 6,
-      "genome": {
-        "efficiency": 2.0531231497256788,
-        "mobility": 1.2067151724710712,
-        "fertility": 1.752159164178483
-      }
-    },
-    {
-      "id": 1127,
-      "generation": 88,
-      "energy": 9.5112423763691,
+      "id": 3077,
+      "generation": 188,
+      "energy": 6.813561662960886,
       "age": 12,
       "genome": {
-        "efficiency": 1.7234713751521225,
-        "mobility": 2.0200095541536394,
-        "fertility": 1.1005746947679236
+        "efficiency": 1.8022602771601477,
+        "mobility": 2.502826967377691,
+        "fertility": 1.3839413426522051
       }
     },
     {
-      "id": 1176,
-      "generation": 91,
-      "energy": 8.140361887050723,
-      "age": 9,
-      "genome": {
-        "efficiency": 1.8567269811751201,
-        "mobility": 1.92579505365278,
-        "fertility": 1.5353760934930447
-      }
-    },
-    {
-      "id": 1299,
-      "generation": 97,
-      "energy": 10.453303250017406,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.8177677500058016,
-        "mobility": 1.6331008351938092,
-        "fertility": 1.525181938880709
-      }
-    },
-    {
-      "id": 1054,
-      "generation": 84,
-      "energy": 1.2263874451835015,
-      "age": 16,
-      "genome": {
-        "efficiency": 1.537731240863917,
-        "mobility": 1.7648823722542426,
-        "fertility": 1.313801398407342
-      }
-    },
-    {
-      "id": 814,
-      "generation": 69,
-      "energy": 12.386284248112064,
-      "age": 31,
-      "genome": {
-        "efficiency": 1.458751268448595,
-        "mobility": 1.6395191190587568,
-        "fertility": 1.7457407231762443
-      }
-    },
-    {
-      "id": 871,
-      "generation": 73,
-      "energy": 5.107934430503715,
-      "age": 27,
-      "genome": {
-        "efficiency": 1.561551912805762,
-        "mobility": 1.6226889729845941,
-        "fertility": 1.7030268519880791
-      }
-    },
-    {
-      "id": 1301,
-      "generation": 97,
-      "energy": 5.0,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.6732984365861574,
-        "mobility": 1.820357666516018,
-        "fertility": 1.656002752778463
-      }
-    },
-    {
-      "id": 843,
-      "generation": 71,
-      "energy": 8.10271730373357,
-      "age": 29,
-      "genome": {
-        "efficiency": 1.8390398502074206,
-        "mobility": 1.991033880808879,
-        "fertility": 1.4834272504704908
-      }
-    },
-    {
-      "id": 1264,
-      "generation": 95,
-      "energy": 3.0,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.6181037446892932,
-        "mobility": 1.6193857407901255,
-        "fertility": 1.7106931996379238
-      }
-    },
-    {
-      "id": 1249,
-      "generation": 94,
-      "energy": 5.359804916988148,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.7866016389960493,
-        "mobility": 1.8557616754894355,
-        "fertility": 1.4932014433691971
-      }
-    },
-    {
-      "id": 1266,
-      "generation": 95,
-      "energy": 6.301575295404344,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.767191765134781,
-        "mobility": 1.687644616707692,
-        "fertility": 1.6636710444113283
-      }
-    },
-    {
-      "id": 1206,
-      "generation": 92,
-      "energy": 8.625652073967908,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.4376086789946514,
-        "mobility": 1.4592295304838518,
-        "fertility": 1.3166824955752137
-      }
-    },
-    {
-      "id": 1123,
-      "generation": 88,
-      "energy": 1.2961893309397068,
-      "age": 12,
-      "genome": {
-        "efficiency": 1.765396443646569,
-        "mobility": 1.0886587786279807,
-        "fertility": 1.8024829960842739
-      }
-    },
-    {
-      "id": 984,
-      "generation": 81,
-      "energy": 8.270607772761473,
+      "id": 2923,
+      "generation": 181,
+      "energy": 3.984947367524409,
       "age": 19,
       "genome": {
-        "efficiency": 1.5513738515174316,
-        "mobility": 1.966807532576268,
-        "fertility": 1.4555587621099229
+        "efficiency": 1.6649941519471565,
+        "mobility": 2.314797520163153,
+        "fertility": 1.4276514760555645
       }
     },
     {
-      "id": 1289,
-      "generation": 96,
-      "energy": 4.0,
+      "id": 2878,
+      "generation": 179,
+      "energy": 6.7845848343377995,
+      "age": 21,
+      "genome": {
+        "efficiency": 1.9820487361948167,
+        "mobility": 1.900722948179096,
+        "fertility": 2.0309883296634497
+      }
+    },
+    {
+      "id": 3326,
+      "generation": 199,
+      "energy": 12.508425688297699,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.8361418960992328,
+        "mobility": 2.0473631724548054,
+        "fertility": 1.4314249496384477
+      }
+    },
+    {
+      "id": 3265,
+      "generation": 196,
+      "energy": 10.242220310062951,
       "age": 4,
       "genome": {
-        "efficiency": 1.4656570917329248,
-        "mobility": 1.8792316622247114,
-        "fertility": 1.5807471673769578
+        "efficiency": 2.0807401033543167,
+        "mobility": 2.2229478729275427,
+        "fertility": 1.1767698343830217
       }
     },
     {
-      "id": 837,
-      "generation": 70,
-      "energy": 0.7472765481349484,
-      "age": 30,
+      "id": 3261,
+      "generation": 196,
+      "energy": 9.259119864073256,
+      "age": 4,
       "genome": {
-        "efficiency": 1.7831517698756636,
-        "mobility": 1.5852394347929935,
-        "fertility": 1.1582012889171505
+        "efficiency": 1.7530399546910853,
+        "mobility": 1.706803745955225,
+        "fertility": 1.3297646248118309
       }
     },
     {
-      "id": 1234,
-      "generation": 94,
-      "energy": 6.714433397286747,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.5714777990955824,
-        "mobility": 2.2843312687172577,
-        "fertility": 1.3414408155051742
-      }
-    },
-    {
-      "id": 1335,
-      "generation": 99,
-      "energy": 9.497679347030491,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.4992264490101634,
-        "mobility": 1.6745875652774964,
-        "fertility": 1.5036937879524825
-      }
-    },
-    {
-      "id": 1147,
-      "generation": 89,
-      "energy": 3.652286031554226,
+      "id": 3105,
+      "generation": 189,
+      "energy": 11.145551834810707,
       "age": 11,
       "genome": {
-        "efficiency": 1.4420476719257045,
-        "mobility": 1.617300917924292,
-        "fertility": 1.5997280483255136
+        "efficiency": 2.0161724260900784,
+        "mobility": 1.9066949143277034,
+        "fertility": 1.453463138618763
       }
     },
     {
-      "id": 1336,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.1990263675147148,
-        "mobility": 1.636928585985432,
-        "fertility": 1.6184989517019666
-      }
-    },
-    {
-      "id": 1332,
-      "generation": 99,
-      "energy": 9.810791374237557,
-      "age": 1,
-      "genome": {
-        "efficiency": 0.9369304580791853,
-        "mobility": 1.7457133725474943,
-        "fertility": 1.7239288206713215
-      }
-    },
-    {
-      "id": 891,
-      "generation": 74,
-      "energy": 12.29283275763315,
+      "id": 2777,
+      "generation": 174,
+      "energy": 3.895226341150572,
       "age": 26,
       "genome": {
-        "efficiency": 1.3455346982347147,
-        "mobility": 1.7283049107150377,
-        "fertility": 1.5936276928991218
+        "efficiency": 1.438623685619476,
+        "mobility": 2.1948820431659795,
+        "fertility": 1.7512130803970645
       }
     },
     {
-      "id": 899,
-      "generation": 75,
-      "energy": 6.497254657865003,
+      "id": 3101,
+      "generation": 189,
+      "energy": 0.3581116109752074,
+      "age": 11,
+      "genome": {
+        "efficiency": 1.7860372036584025,
+        "mobility": 1.967831316411924,
+        "fertility": 1.518699450608119
+      }
+    },
+    {
+      "id": 3302,
+      "generation": 198,
+      "energy": 11.1484093289767,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.716136442992233,
+        "mobility": 2.103131879610601,
+        "fertility": 1.4715514168918666
+      }
+    },
+    {
+      "id": 2730,
+      "generation": 172,
+      "energy": 24.257933308526553,
+      "age": 28,
+      "genome": {
+        "efficiency": 2.010747221188606,
+        "mobility": 2.165054006263111,
+        "fertility": 1.2614717430187647
+      }
+    },
+    {
+      "id": 3057,
+      "generation": 187,
+      "energy": 1.5728669396951371,
+      "age": 13,
+      "genome": {
+        "efficiency": 2.1909556465650457,
+        "mobility": 1.9917118202722426,
+        "fertility": 1.5441636933989684
+      }
+    },
+    {
+      "id": 3243,
+      "generation": 195,
+      "energy": 6.17388095640673,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.7246269854689105,
+        "mobility": 2.059161934305575,
+        "fertility": 1.4076292119540668
+      }
+    },
+    {
+      "id": 3213,
+      "generation": 194,
+      "energy": 7.7770663092881644,
+      "age": 6,
+      "genome": {
+        "efficiency": 1.9256887697627214,
+        "mobility": 2.045674486026347,
+        "fertility": 1.4183063011362727
+      }
+    },
+    {
+      "id": 3194,
+      "generation": 193,
+      "energy": 6.8369896407710655,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.9456632135903555,
+        "mobility": 1.174353339835718,
+        "fertility": 1.77698931959882
+      }
+    },
+    {
+      "id": 3119,
+      "generation": 190,
+      "energy": 2.572021934529406,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.5240073115098018,
+        "mobility": 2.084368271892463,
+        "fertility": 1.288875053134946
+      }
+    },
+    {
+      "id": 3064,
+      "generation": 188,
+      "energy": 9.509354967934378,
+      "age": 12,
+      "genome": {
+        "efficiency": 1.72326166310382,
+        "mobility": 2.6077503311243824,
+        "fertility": 1.5771475800012213
+      }
+    },
+    {
+      "id": 2864,
+      "generation": 178,
+      "energy": 5.711867590527048,
+      "age": 22,
+      "genome": {
+        "efficiency": 1.580791172701803,
+        "mobility": 2.114539235838246,
+        "fertility": 1.9880673997288956
+      }
+    },
+    {
+      "id": 2925,
+      "generation": 182,
+      "energy": 0.5906405062173139,
+      "age": 18,
+      "genome": {
+        "efficiency": 2.0984400843695523,
+        "mobility": 1.9626546335844008,
+        "fertility": 1.5151760824124356
+      }
+    },
+    {
+      "id": 3124,
+      "generation": 190,
+      "energy": 9.206391151353664,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.8677318585589437,
+        "mobility": 1.5121369771894262,
+        "fertility": 1.656971906766787
+      }
+    },
+    {
+      "id": 2990,
+      "generation": 184,
+      "energy": 12.811374156422048,
+      "age": 16,
+      "genome": {
+        "efficiency": 1.7342811797018372,
+        "mobility": 2.029602994802928,
+        "fertility": 1.4783940510343507
+      }
+    },
+    {
+      "id": 2803,
+      "generation": 175,
+      "energy": 3.5982490482845524,
       "age": 25,
       "genome": {
-        "efficiency": 1.8609585921036111,
-        "mobility": 1.6130587650074824,
-        "fertility": 1.6345308993590288
+        "efficiency": 2.2165207540237124,
+        "mobility": 2.3073471529928065,
+        "fertility": 1.4700515856676737
       }
     },
     {
-      "id": 1112,
-      "generation": 87,
-      "energy": 7.256758925966558,
-      "age": 13,
-      "genome": {
-        "efficiency": 1.5840843251073957,
-        "mobility": 1.8066756169199076,
-        "fertility": 1.8457538485373104
-      }
-    },
-    {
-      "id": 939,
-      "generation": 78,
-      "energy": 7.8797045890556845,
-      "age": 22,
-      "genome": {
-        "efficiency": 1.8233087157546404,
-        "mobility": 1.8596676514487833,
-        "fertility": 1.2067367142777954
-      }
-    },
-    {
-      "id": 1039,
-      "generation": 83,
-      "energy": 1.8805719672811723,
-      "age": 17,
-      "genome": {
-        "efficiency": 1.6533968852534637,
-        "mobility": 1.3944059621164409,
-        "fertility": 1.6727868344953114
-      }
-    },
-    {
-      "id": 1132,
-      "generation": 89,
-      "energy": 8.831132127891532,
-      "age": 11,
-      "genome": {
-        "efficiency": 1.7590146808768365,
-        "mobility": 1.7875267015023888,
-        "fertility": 1.3936016396897102
-      }
-    },
-    {
-      "id": 1116,
-      "generation": 87,
-      "energy": 12.654534463580525,
-      "age": 13,
-      "genome": {
-        "efficiency": 1.8045445386317105,
-        "mobility": 1.6646657584587634,
-        "fertility": 1.6536258175554428
-      }
-    },
-    {
-      "id": 1213,
-      "generation": 93,
-      "energy": 6.437443518521304,
+      "id": 3188,
+      "generation": 193,
+      "energy": 8.468164883817039,
       "age": 7,
       "genome": {
-        "efficiency": 1.8124811728404349,
-        "mobility": 1.7555508083307807,
-        "fertility": 1.5162801575038942
+        "efficiency": 1.9113608139695066,
+        "mobility": 2.141595244676216,
+        "fertility": 1.4940148205667252
       }
     },
     {
-      "id": 1310,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
+      "id": 3230,
+      "generation": 195,
+      "energy": 1.0,
+      "age": 5,
       "genome": {
-        "efficiency": 1.2900969114284135,
-        "mobility": 1.4983392298670974,
-        "fertility": 1.5781817430290375
+        "efficiency": 1.893867517131939,
+        "mobility": 2.0561675451725048,
+        "fertility": 1.923498306934245
       }
     },
     {
-      "id": 1321,
-      "generation": 98,
-      "energy": 10.70868540856852,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.569561802856173,
-        "mobility": 1.817544354498397,
-        "fertility": 1.5867222491288766
-      }
-    },
-    {
-      "id": 1243,
-      "generation": 94,
-      "energy": 8.80023436638529,
+      "id": 3214,
+      "generation": 194,
+      "energy": 5.446160161706496,
       "age": 6,
       "genome": {
-        "efficiency": 1.4667057277308815,
-        "mobility": 1.5816955628573957,
-        "fertility": 1.3726013506713455
+        "efficiency": 1.815386720568832,
+        "mobility": 2.048044746674752,
+        "fertility": 2.1383025096807837
       }
     },
     {
-      "id": 1297,
-      "generation": 97,
-      "energy": 9.915888276456016,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.1526480460760025,
-        "mobility": 2.2240552884632097,
-        "fertility": 1.3435936262950972
-      }
-    },
-    {
-      "id": 1193,
-      "generation": 92,
-      "energy": 5.184309068700145,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.728103022900048,
-        "mobility": 1.2597390376380335,
-        "fertility": 1.7079158252248468
-      }
-    },
-    {
-      "id": 1228,
-      "generation": 93,
-      "energy": 5.040629021765223,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.3468763405884077,
-        "mobility": 1.5160616438995531,
-        "fertility": 1.8011963903939283
-      }
-    },
-    {
-      "id": 1235,
-      "generation": 94,
-      "energy": 6.819641041564621,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.6065470138548736,
-        "mobility": 1.9765218979031722,
-        "fertility": 1.6147023399155653
-      }
-    },
-    {
-      "id": 1240,
-      "generation": 94,
+      "id": 3250,
+      "generation": 196,
       "energy": 2.0,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.7395478421776451,
-        "mobility": 1.4334370502850224,
-        "fertility": 1.712986958392963
-      }
-    },
-    {
-      "id": 1285,
-      "generation": 96,
-      "energy": 3.932564291044578,
       "age": 4,
       "genome": {
-        "efficiency": 1.310854763681526,
-        "mobility": 1.6074083454643284,
-        "fertility": 1.5959461185400854
+        "efficiency": 1.7996557140898126,
+        "mobility": 1.8930737230370691,
+        "fertility": 2.1231783760231613
       }
     },
     {
-      "id": 1345,
-      "generation": 99,
-      "energy": 7.0,
+      "id": 3334,
+      "generation": 199,
+      "energy": 10.430991628181673,
       "age": 1,
       "genome": {
-        "efficiency": 1.5904559928257234,
-        "mobility": 1.3414734821129684,
-        "fertility": 1.8047862269688502
+        "efficiency": 1.810330542727224,
+        "mobility": 2.0278328897858513,
+        "fertility": 1.3603222686725474
       }
     },
     {
-      "id": 976,
-      "generation": 80,
-      "energy": 4.494352175933313,
-      "age": 20,
-      "genome": {
-        "efficiency": 1.5411960146611092,
-        "mobility": 1.3264414316053081,
-        "fertility": 1.4480816008890285
-      }
-    },
-    {
-      "id": 1333,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.7049736102269382,
-        "mobility": 1.8318907279897116,
-        "fertility": 1.2745033828475154
-      }
-    },
-    {
-      "id": 1212,
-      "generation": 93,
-      "energy": 11.563309676808863,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.7605516128014775,
-        "mobility": 1.6414161064067938,
-        "fertility": 1.4367678449181338
-      }
-    },
-    {
-      "id": 1044,
-      "generation": 84,
-      "energy": 4.205611120128599,
+      "id": 2984,
+      "generation": 184,
+      "energy": 9.064041660977225,
       "age": 16,
       "genome": {
-        "efficiency": 1.3561790133476224,
-        "mobility": 1.5205229787706156,
-        "fertility": 1.3290839717401235
+        "efficiency": 1.5886701384147686,
+        "mobility": 2.110995558667245,
+        "fertility": 1.763205139261711
       }
     },
     {
-      "id": 1040,
-      "generation": 83,
-      "energy": 7.5871481698193435,
-      "age": 17,
-      "genome": {
-        "efficiency": 1.5489290141516119,
-        "mobility": 1.5097551671492218,
-        "fertility": 1.35854111414135
-      }
-    },
-    {
-      "id": 1257,
-      "generation": 95,
-      "energy": 1.0,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.1097826758762803,
-        "mobility": 1.6876178565665345,
-        "fertility": 1.5964098560594708
-      }
-    },
-    {
-      "id": 1185,
-      "generation": 91,
-      "energy": 3.75072441307762,
-      "age": 9,
-      "genome": {
-        "efficiency": 1.5835748043592064,
-        "mobility": 0.8844750422148704,
-        "fertility": 1.532699779816323
-      }
-    },
-    {
-      "id": 1220,
-      "generation": 93,
-      "energy": 1.0,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.5032290527956966,
-        "mobility": 1.7092019044200852,
-        "fertility": 1.7071383419953765
-      }
-    },
-    {
-      "id": 1225,
-      "generation": 93,
-      "energy": 1.0,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.4448155224858468,
-        "mobility": 1.8755445187701616,
-        "fertility": 1.3509201737482244
-      }
-    },
-    {
-      "id": 1221,
-      "generation": 93,
-      "energy": 1.0,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.421462430476534,
-        "mobility": 1.4540735971231515,
-        "fertility": 1.6486466815372955
-      }
-    },
-    {
-      "id": 1330,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.8116717311401127,
-        "mobility": 1.70493556466999,
-        "fertility": 1.5975221163523017
-      }
-    },
-    {
-      "id": 1346,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.3221755605296048,
-        "mobility": 2.397284853902717,
-        "fertility": 1.3150711182968478
-      }
-    },
-    {
-      "id": 1267,
-      "generation": 95,
-      "energy": 3.0,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.5142712252032327,
-        "mobility": 1.8503196106706261,
-        "fertility": 1.3435348390050317
-      }
-    },
-    {
-      "id": 1061,
-      "generation": 84,
-      "energy": 16.792696250811538,
-      "age": 16,
-      "genome": {
-        "efficiency": 1.7107053472673077,
-        "mobility": 1.7962748499534897,
-        "fertility": 1.4786520347864582
-      }
-    },
-    {
-      "id": 1258,
-      "generation": 95,
-      "energy": 4.750274674572253,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.2500915581907515,
-        "mobility": 1.803161503728924,
-        "fertility": 1.3397757718656533
-      }
-    },
-    {
-      "id": 1166,
-      "generation": 90,
-      "energy": 2.4944958780443116,
-      "age": 10,
-      "genome": {
-        "efficiency": 1.498165292681437,
-        "mobility": 1.3956414945863314,
-        "fertility": 1.7489137489910296
-      }
-    },
-    {
-      "id": 1282,
-      "generation": 96,
-      "energy": 4.0,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.7315865733831064,
-        "mobility": 1.9898042333114065,
-        "fertility": 1.2748686189935616
-      }
-    },
-    {
-      "id": 1190,
-      "generation": 92,
-      "energy": 4.487007156249884,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.495669052083295,
-        "mobility": 1.664519291373698,
-        "fertility": 1.5938509686181943
-      }
-    },
-    {
-      "id": 839,
-      "generation": 70,
-      "energy": 4.065674316563275,
-      "age": 30,
-      "genome": {
-        "efficiency": 1.4194030965234694,
-        "mobility": 1.6283771898436121,
-        "fertility": 1.5811273450230219
-      }
-    },
-    {
-      "id": 1344,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.7172473837485411,
-        "mobility": 1.470888659279516,
-        "fertility": 1.5064654225999303
-      }
-    },
-    {
-      "id": 1216,
-      "generation": 93,
-      "energy": 3.6817675224597135,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.5605891741532378,
-        "mobility": 2.0242197941959112,
-        "fertility": 1.664359461845552
-      }
-    },
-    {
-      "id": 1337,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.8746045910029967,
-        "mobility": 1.7237274857560516,
-        "fertility": 1.6913211942345505
-      }
-    },
-    {
-      "id": 1140,
-      "generation": 89,
-      "energy": 9.309407565395844,
-      "age": 11,
-      "genome": {
-        "efficiency": 1.8121563961550942,
-        "mobility": 1.6871693589235686,
-        "fertility": 1.6432751560129548
-      }
-    },
-    {
-      "id": 1205,
-      "generation": 92,
-      "energy": 4.091132510668036,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.363710836889345,
-        "mobility": 1.4785361647841182,
-        "fertility": 1.5167035954978676
-      }
-    },
-    {
-      "id": 1242,
-      "generation": 94,
-      "energy": 4.848446504883354,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.616148834961118,
-        "mobility": 1.744474919404588,
-        "fertility": 1.523281567902374
-      }
-    },
-    {
-      "id": 912,
-      "generation": 76,
-      "energy": 7.857896980014896,
-      "age": 24,
-      "genome": {
-        "efficiency": 1.7238597986676594,
-        "mobility": 2.1079961671690604,
-        "fertility": 1.2351068983682039
-      }
-    },
-    {
-      "id": 1211,
-      "generation": 93,
-      "energy": 5.335746340725854,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.4452487802419514,
-        "mobility": 1.3327486695495263,
-        "fertility": 1.698334254709405
-      }
-    },
-    {
-      "id": 1265,
-      "generation": 95,
-      "energy": 3.0,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.4360987605794084,
-        "mobility": 1.7315165133856922,
-        "fertility": 1.6926646361677542
-      }
-    },
-    {
-      "id": 1260,
-      "generation": 95,
-      "energy": 10.980398756643893,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.330066459440649,
-        "mobility": 1.5982636468914229,
-        "fertility": 1.6708161392355
-      }
-    },
-    {
-      "id": 1259,
-      "generation": 95,
-      "energy": 6.062870766372193,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.6876235887907307,
-        "mobility": 1.8315968731288397,
-        "fertility": 1.4382540671938255
-      }
-    },
-    {
-      "id": 1153,
-      "generation": 90,
-      "energy": 3.696379158242726,
-      "age": 10,
-      "genome": {
-        "efficiency": 1.9493965263737876,
-        "mobility": 1.6308465175041267,
-        "fertility": 1.3324925007808957
-      }
-    },
-    {
-      "id": 993,
-      "generation": 81,
-      "energy": 5.601569437913419,
-      "age": 19,
-      "genome": {
-        "efficiency": 1.550130786492785,
-        "mobility": 1.6123559047691465,
-        "fertility": 1.5455915366971373
-      }
-    },
-    {
-      "id": 1141,
-      "generation": 89,
-      "energy": 5.887648017309036,
-      "age": 11,
-      "genome": {
-        "efficiency": 1.4812746695515062,
-        "mobility": 1.540716960193946,
-        "fertility": 1.4152210949360493
-      }
-    },
-    {
-      "id": 1073,
-      "generation": 85,
-      "energy": 0.4240579156968671,
-      "age": 15,
-      "genome": {
-        "efficiency": 1.2693397684107632,
-        "mobility": 1.7210243991371552,
-        "fertility": 1.5470573484178154
-      }
-    },
-    {
-      "id": 1001,
-      "generation": 82,
-      "energy": 0.020252069384440574,
-      "age": 18,
-      "genome": {
-        "efficiency": 1.335583563264938,
-        "mobility": 1.492207687897638,
-        "fertility": 1.546662391090343
-      }
-    },
-    {
-      "id": 1284,
-      "generation": 96,
-      "energy": 7.4288871023287335,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.8096290341095778,
-        "mobility": 2.0081582804108566,
-        "fertility": 1.5225143820413458
-      }
-    },
-    {
-      "id": 1224,
-      "generation": 93,
-      "energy": 1.0,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.5214661117679198,
-        "mobility": 1.9566079701911192,
-        "fertility": 1.4157360166595065
-      }
-    },
-    {
-      "id": 1317,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.4224222919869798,
-        "mobility": 1.5311899964097493,
-        "fertility": 1.3042835836471427
-      }
-    },
-    {
-      "id": 1223,
-      "generation": 93,
-      "energy": 1.0,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.4872884561686983,
-        "mobility": 1.5503689538991672,
-        "fertility": 1.346548658337498
-      }
-    },
-    {
-      "id": 1219,
-      "generation": 93,
-      "energy": 4.84784211401899,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.9492807046729967,
-        "mobility": 1.706966833137225,
-        "fertility": 1.2917011185681282
-      }
-    },
-    {
-      "id": 1128,
-      "generation": 88,
-      "energy": 3.0526275870567154,
-      "age": 12,
-      "genome": {
-        "efficiency": 1.1754379311761192,
-        "mobility": 1.1931520247165617,
-        "fertility": 1.963789494899996
-      }
-    },
-    {
-      "id": 1251,
-      "generation": 95,
-      "energy": 3.0,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.6863824108290877,
-        "mobility": 1.760360298719038,
-        "fertility": 1.3081396665873206
-      }
-    },
-    {
-      "id": 1295,
-      "generation": 97,
-      "energy": 5.0,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.7159886560526356,
-        "mobility": 2.056641255204471,
-        "fertility": 1.5210123738766295
-      }
-    },
-    {
-      "id": 1319,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.79082774411442,
-        "mobility": 1.8782948019975565,
-        "fertility": 1.4027524244963911
-      }
-    },
-    {
-      "id": 1187,
-      "generation": 91,
-      "energy": 0.9012163787218608,
-      "age": 9,
-      "genome": {
-        "efficiency": 1.6502027297869768,
-        "mobility": 1.8905686029925044,
-        "fertility": 1.4226142505518236
-      }
-    },
-    {
-      "id": 1168,
-      "generation": 90,
-      "energy": 12.84403204594166,
-      "age": 10,
-      "genome": {
-        "efficiency": 1.5703360038284713,
-        "mobility": 1.942601565731601,
-        "fertility": 1.450218174389106
-      }
-    },
-    {
-      "id": 1329,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.0954331732190183,
-        "mobility": 1.8744054987233476,
-        "fertility": 1.4047551942222063
-      }
-    },
-    {
-      "id": 1302,
-      "generation": 97,
-      "energy": 3.0,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.865759258044332,
-        "mobility": 1.6645080874304574,
-        "fertility": 1.7410154445390766
-      }
-    },
-    {
-      "id": 1261,
-      "generation": 95,
-      "energy": 3.0,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.001903936597746,
-        "mobility": 1.6582637570983987,
-        "fertility": 1.4845526711793433
-      }
-    },
-    {
-      "id": 1253,
-      "generation": 95,
-      "energy": 8.331723370172465,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.7772411233908219,
-        "mobility": 1.8533878920982285,
-        "fertility": 1.5284433540570814
-      }
-    },
-    {
-      "id": 956,
-      "generation": 79,
-      "energy": 4.9899160079044815,
-      "age": 21,
-      "genome": {
-        "efficiency": 1.8324930006587066,
-        "mobility": 2.2132384429538607,
-        "fertility": 1.2393025714253032
-      }
-    },
-    {
-      "id": 1210,
-      "generation": 93,
-      "energy": 1.0,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.51718448602555,
-        "mobility": 1.92726926458144,
-        "fertility": 1.6700843520952477
-      }
-    },
-    {
-      "id": 1222,
-      "generation": 93,
-      "energy": 1.0,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.6146064968844125,
-        "mobility": 1.5568681466239702,
-        "fertility": 1.28932796106349
-      }
-    },
-    {
-      "id": 1182,
-      "generation": 91,
-      "energy": 8.821147730137657,
-      "age": 9,
-      "genome": {
-        "efficiency": 1.5356830811264062,
-        "mobility": 2.2344522811783607,
-        "fertility": 1.3225725278267682
-      }
-    },
-    {
-      "id": 922,
-      "generation": 77,
-      "energy": 8.919937654671955,
-      "age": 23,
-      "genome": {
-        "efficiency": 1.7279958436447969,
-        "mobility": 2.0716601539018447,
-        "fertility": 1.157155304083282
-      }
-    },
-    {
-      "id": 894,
-      "generation": 74,
-      "energy": 22.603832771866912,
+      "id": 2769,
+      "generation": 174,
+      "energy": 2.5025659706488455,
       "age": 26,
       "genome": {
-        "efficiency": 1.7751596988277885,
-        "mobility": 2.0015625119018905,
-        "fertility": 1.1168283035870874
+        "efficiency": 1.9001710647099228,
+        "mobility": 1.6477092412016539,
+        "fertility": 1.2790369435522888
       }
     },
     {
-      "id": 1288,
-      "generation": 96,
-      "energy": 2.0,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.7586511382687644,
-        "mobility": 1.5649295045350553,
-        "fertility": 1.254870210994457
-      }
-    },
-    {
-      "id": 1014,
-      "generation": 83,
-      "energy": 2.2166350759209728,
-      "age": 17,
-      "genome": {
-        "efficiency": 1.8694391793201621,
-        "mobility": 1.6630512396231747,
-        "fertility": 1.6537324857416646
-      }
-    },
-    {
-      "id": 1275,
-      "generation": 96,
-      "energy": 4.0,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.2718444352183287,
-        "mobility": 1.7821262935849522,
-        "fertility": 1.2512715309654094
-      }
-    },
-    {
-      "id": 1290,
-      "generation": 96,
-      "energy": 4.0,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.492854842503831,
-        "mobility": 1.551794961172638,
-        "fertility": 1.368100928955394
-      }
-    },
-    {
-      "id": 1201,
-      "generation": 92,
-      "energy": 5.232827024425859,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.5388045040709764,
-        "mobility": 1.5496501452096325,
-        "fertility": 1.5637908708065078
-      }
-    },
-    {
-      "id": 1199,
-      "generation": 92,
-      "energy": 8.43487043931021,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.739145073218368,
-        "mobility": 1.7549392070445797,
-        "fertility": 1.3670431528182057
-      }
-    },
-    {
-      "id": 1324,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.6384296129006304,
-        "mobility": 1.637761854532279,
-        "fertility": 1.6211923592848227
-      }
-    },
-    {
-      "id": 925,
-      "generation": 77,
-      "energy": 3.316650488435915,
-      "age": 23,
-      "genome": {
-        "efficiency": 1.8597208740363262,
-        "mobility": 1.7596369968597652,
-        "fertility": 1.55611744103543
-      }
-    },
-    {
-      "id": 1207,
-      "generation": 92,
-      "energy": 5.202978278205191,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.7343260927350637,
-        "mobility": 1.5527118669947562,
-        "fertility": 1.2588784085639375
-      }
-    },
-    {
-      "id": 1309,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.5587191678661239,
-        "mobility": 2.098705334242879,
-        "fertility": 1.4608218886696167
-      }
-    },
-    {
-      "id": 1296,
-      "generation": 97,
-      "energy": 9.941685125614176,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.6472283752047254,
-        "mobility": 2.325964660339818,
-        "fertility": 1.3787467598681398
-      }
-    },
-    {
-      "id": 1007,
-      "generation": 82,
-      "energy": 6.5951734793574985,
-      "age": 18,
-      "genome": {
-        "efficiency": 1.7162644566131247,
-        "mobility": 1.6183770829882917,
-        "fertility": 1.6370973974894618
-      }
-    },
-    {
-      "id": 745,
-      "generation": 65,
-      "energy": 2.822693886652976,
-      "age": 35,
-      "genome": {
-        "efficiency": 1.7058425660310939,
-        "mobility": 1.4185013654687437,
-        "fertility": 1.6277785490092438
-      }
-    },
-    {
-      "id": 959,
-      "generation": 79,
-      "energy": 7.498579322749242,
-      "age": 21,
-      "genome": {
-        "efficiency": 1.4999052881832826,
-        "mobility": 1.7195297434242138,
-        "fertility": 1.7957578662954068
-      }
-    },
-    {
-      "id": 1050,
-      "generation": 84,
-      "energy": 13.997552568528164,
-      "age": 16,
-      "genome": {
-        "efficiency": 1.733170171235211,
-        "mobility": 1.7591540460676567,
-        "fertility": 1.506598251835241
-      }
-    },
-    {
-      "id": 1080,
-      "generation": 86,
-      "energy": 1.5229818948404272,
-      "age": 14,
-      "genome": {
-        "efficiency": 1.5871636491400711,
-        "mobility": 1.8034952616547961,
-        "fertility": 1.732717116190211
-      }
-    },
-    {
-      "id": 1143,
-      "generation": 89,
-      "energy": 1.679053462735034,
-      "age": 11,
-      "genome": {
-        "efficiency": 1.5596844875783447,
-        "mobility": 1.481599304847885,
-        "fertility": 1.1741328223455614
-      }
-    },
-    {
-      "id": 1340,
-      "generation": 99,
+      "id": 3324,
+      "generation": 199,
       "energy": 7.0,
       "age": 1,
       "genome": {
-        "efficiency": 1.539028006538343,
-        "mobility": 1.716080961753766,
-        "fertility": 1.6792102527549295
+        "efficiency": 1.774512217647215,
+        "mobility": 2.0455154590581714,
+        "fertility": 1.383987377487518
       }
     },
     {
-      "id": 686,
-      "generation": 61,
-      "energy": 6.378804838469385,
-      "age": 39,
+      "id": 3096,
+      "generation": 189,
+      "energy": 4.440253955013966,
+      "age": 11,
       "genome": {
-        "efficiency": 1.9704192780223517,
-        "mobility": 1.5353646377713406,
-        "fertility": 1.1646873439624896
+        "efficiency": 1.5733756591689945,
+        "mobility": 2.0147367068520494,
+        "fertility": 1.393270612146222
       }
     },
     {
-      "id": 808,
-      "generation": 68,
-      "energy": 9.11276598512848,
-      "age": 32,
+      "id": 3135,
+      "generation": 191,
+      "energy": 7.469214646207183,
+      "age": 9,
       "genome": {
-        "efficiency": 1.6296985827136867,
-        "mobility": 1.887085842125699,
-        "fertility": 1.383741974459409
+        "efficiency": 1.744869107701197,
+        "mobility": 1.9937514871826911,
+        "fertility": 1.7531500731465024
       }
     },
     {
-      "id": 1286,
-      "generation": 96,
-      "energy": 4.0,
+      "id": 3286,
+      "generation": 197,
+      "energy": 10.35549019729877,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.78516339909959,
+        "mobility": 2.1190253401081383,
+        "fertility": 1.6720810868250786
+      }
+    },
+    {
+      "id": 3102,
+      "generation": 189,
+      "energy": 2.728370755454648,
+      "age": 11,
+      "genome": {
+        "efficiency": 1.9547284592424417,
+        "mobility": 1.9827785622203775,
+        "fertility": 1.8805378475434937
+      }
+    },
+    {
+      "id": 2759,
+      "generation": 174,
+      "energy": 17.48984454662675,
+      "age": 26,
+      "genome": {
+        "efficiency": 2.304991363701486,
+        "mobility": 2.2116127472552147,
+        "fertility": 1.4766945153939866
+      }
+    },
+    {
+      "id": 3183,
+      "generation": 193,
+      "energy": 11.54904422638376,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.7581740377306265,
+        "mobility": 2.108613194770193,
+        "fertility": 1.3145254536425264
+      }
+    },
+    {
+      "id": 2969,
+      "generation": 183,
+      "energy": 3.781571879732546,
+      "age": 17,
+      "genome": {
+        "efficiency": 1.4201746533036164,
+        "mobility": 2.226933493349713,
+        "fertility": 1.904709334821603
+      }
+    },
+    {
+      "id": 3258,
+      "generation": 196,
+      "energy": 13.005287937640624,
       "age": 4,
       "genome": {
-        "efficiency": 1.6253911791358617,
-        "mobility": 1.2299851712451597,
-        "fertility": 1.590120342241541
+        "efficiency": 1.834214656273437,
+        "mobility": 2.2005962697237385,
+        "fertility": 1.057499847432781
       }
     },
     {
-      "id": 1292,
-      "generation": 96,
-      "energy": 9.593944621473241,
-      "age": 4,
+      "id": 3150,
+      "generation": 191,
+      "energy": 7.54763182215866,
+      "age": 9,
       "genome": {
-        "efficiency": 1.8646482071577468,
-        "mobility": 1.5603489535155042,
-        "fertility": 1.356305695554142
+        "efficiency": 2.091271970359777,
+        "mobility": 2.06209719790537,
+        "fertility": 1.4531333594047149
       }
     },
     {
-      "id": 1306,
-      "generation": 97,
+      "id": 3190,
+      "generation": 193,
+      "energy": 11.599756984386012,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.766626164064335,
+        "mobility": 2.157736091593479,
+        "fertility": 1.8164516309572623
+      }
+    },
+    {
+      "id": 3203,
+      "generation": 193,
+      "energy": 13.23096181064783,
+      "age": 7,
+      "genome": {
+        "efficiency": 2.038493635107972,
+        "mobility": 2.3137301145713898,
+        "fertility": 1.6134352030903911
+      }
+    },
+    {
+      "id": 3290,
+      "generation": 197,
+      "energy": 9.624030857836319,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.541343619278773,
+        "mobility": 1.758250589367535,
+        "fertility": 1.8571986653181387
+      }
+    },
+    {
+      "id": 3285,
+      "generation": 197,
       "energy": 5.0,
       "age": 3,
       "genome": {
-        "efficiency": 2.1091800691496845,
-        "mobility": 1.2973463505052123,
-        "fertility": 1.7867847726183816
+        "efficiency": 1.8775478138609187,
+        "mobility": 1.815329505302462,
+        "fertility": 1.693828288257532
       }
     },
     {
-      "id": 845,
-      "generation": 71,
-      "energy": 1.6889290240384227,
-      "age": 29,
+      "id": 3104,
+      "generation": 189,
+      "energy": 8.671261075971874,
+      "age": 11,
       "genome": {
-        "efficiency": 1.2709013820970678,
-        "mobility": 1.7285426234527508,
-        "fertility": 1.5469926896804203
+        "efficiency": 1.9634734528857638,
+        "mobility": 2.1870131934800865,
+        "fertility": 1.3885987337746808
       }
     },
     {
-      "id": 1281,
-      "generation": 96,
-      "energy": 4.0,
-      "age": 4,
+      "id": 3217,
+      "generation": 194,
+      "energy": 13.865737686127147,
+      "age": 6,
       "genome": {
-        "efficiency": 1.2154565699549416,
-        "mobility": 1.9467950833099903,
-        "fertility": 1.0260590817934927
+        "efficiency": 2.310956281021191,
+        "mobility": 2.356415341499224,
+        "fertility": 1.470340694401318
       }
     },
     {
-      "id": 1325,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.4710459755419711,
-        "mobility": 1.9332184271251394,
-        "fertility": 1.3894269231722616
-      }
-    },
-    {
-      "id": 1203,
-      "generation": 92,
-      "energy": 2.036515485661834,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.345505161887278,
-        "mobility": 1.405112319774848,
-        "fertility": 1.6233153561259337
-      }
-    },
-    {
-      "id": 1326,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.3041604647263774,
-        "mobility": 1.7655577888904832,
-        "fertility": 1.6137483481324397
-      }
-    },
-    {
-      "id": 958,
-      "generation": 79,
-      "energy": 4.187495600714669,
+      "id": 2881,
+      "generation": 179,
+      "energy": 7.637153665746677,
       "age": 21,
       "genome": {
-        "efficiency": 1.4322913000595556,
-        "mobility": 1.4714615805690265,
-        "fertility": 1.2654504747872564
+        "efficiency": 1.4798418703192597,
+        "mobility": 1.8447189215356998,
+        "fertility": 1.7265032771876896
       }
     },
     {
-      "id": 981,
-      "generation": 80,
-      "energy": 3.729272584838795,
-      "age": 20,
-      "genome": {
-        "efficiency": 1.8107727154032327,
-        "mobility": 1.5899660032147405,
-        "fertility": 1.1875365073334558
-      }
-    },
-    {
-      "id": 1287,
-      "generation": 96,
-      "energy": 4.0,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.5845603755645359,
-        "mobility": 1.693645054982823,
-        "fertility": 1.7138657526646528
-      }
-    },
-    {
-      "id": 1316,
-      "generation": 98,
-      "energy": 10.719098282550434,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.5730327608501442,
-        "mobility": 2.086169275327238,
-        "fertility": 1.2393428316858286
-      }
-    },
-    {
-      "id": 1320,
-      "generation": 98,
-      "energy": 10.203724810168378,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.4012416033894595,
-        "mobility": 1.962947851535132,
-        "fertility": 1.1483858604976769
-      }
-    },
-    {
-      "id": 1312,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.796020867069558,
-        "mobility": 1.727292776141444,
-        "fertility": 1.6735274911370956
-      }
-    },
-    {
-      "id": 1244,
-      "generation": 94,
-      "energy": 2.0,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.5054859224225587,
-        "mobility": 2.0650439965069243,
-        "fertility": 1.1343032312768577
-      }
-    },
-    {
-      "id": 1198,
-      "generation": 92,
-      "energy": 4.8098169292507045,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.603272309750235,
-        "mobility": 1.7556164494864557,
-        "fertility": 1.528496824200127
-      }
-    },
-    {
-      "id": 1274,
-      "generation": 96,
-      "energy": 6.889247056024022,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.6297490186746737,
-        "mobility": 2.0811937175667343,
-        "fertility": 1.4978999097331274
-      }
-    },
-    {
-      "id": 1238,
-      "generation": 94,
-      "energy": 5.425007171689423,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.8083357238964741,
-        "mobility": 2.0581606400773107,
-        "fertility": 1.473788312092385
-      }
-    },
-    {
-      "id": 1162,
-      "generation": 90,
-      "energy": 0.03842239169515871,
+      "id": 3118,
+      "generation": 190,
+      "energy": 10.462703637223871,
       "age": 10,
       "genome": {
-        "efficiency": 1.3461407972317194,
-        "mobility": 1.864699694635598,
-        "fertility": 1.5731645083285988
+        "efficiency": 1.371891969768656,
+        "mobility": 2.1883766307978734,
+        "fertility": 1.369246298971217
       }
     },
     {
-      "id": 1150,
-      "generation": 89,
-      "energy": 1.6110134431023715,
-      "age": 11,
-      "genome": {
-        "efficiency": 1.537004481034124,
-        "mobility": 1.6621069180107888,
-        "fertility": 1.7618406305507552
-      }
-    },
-    {
-      "id": 1273,
-      "generation": 96,
-      "energy": 4.0,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.709028308281508,
-        "mobility": 1.876890390707227,
-        "fertility": 1.4370381265428074
-      }
-    },
-    {
-      "id": 1172,
-      "generation": 91,
-      "energy": 0.5151742669059693,
-      "age": 9,
-      "genome": {
-        "efficiency": 1.171724755635323,
-        "mobility": 1.7584594172294166,
-        "fertility": 1.7018121048623598
-      }
-    },
-    {
-      "id": 1209,
-      "generation": 93,
-      "energy": 1.0,
+      "id": 3191,
+      "generation": 193,
+      "energy": 7.0737185648950565,
       "age": 7,
       "genome": {
-        "efficiency": 1.7477497830105135,
-        "mobility": 1.3059971100198282,
-        "fertility": 1.4702291189619978
+        "efficiency": 2.024572854965019,
+        "mobility": 2.3155420870285544,
+        "fertility": 1.712687310777438
       }
     },
     {
-      "id": 1246,
-      "generation": 94,
-      "energy": 2.0,
-      "age": 6,
-      "genome": {
-        "efficiency": 1.5513031856497437,
-        "mobility": 1.0604201102269901,
-        "fertility": 1.519402100881585
-      }
-    },
-    {
-      "id": 1030,
-      "generation": 83,
-      "energy": 1.1596316625705256,
-      "age": 17,
-      "genome": {
-        "efficiency": 1.6932719437617543,
-        "mobility": 1.5601095836516525,
-        "fertility": 1.3801110226188846
-      }
-    },
-    {
-      "id": 982,
-      "generation": 81,
-      "energy": 4.984532373596987,
-      "age": 19,
-      "genome": {
-        "efficiency": 1.1989688249064658,
-        "mobility": 1.5014828813723367,
-        "fertility": 1.5498672198933166
-      }
-    },
-    {
-      "id": 1179,
-      "generation": 91,
-      "energy": 0.30207447868205684,
-      "age": 9,
-      "genome": {
-        "efficiency": 1.1006914928940188,
-        "mobility": 1.8548130195159518,
-        "fertility": 1.4906448286655432
-      }
-    },
-    {
-      "id": 1255,
-      "generation": 95,
-      "energy": 10.702239691970696,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.6170399486617826,
-        "mobility": 1.965441607107553,
-        "fertility": 1.1816849695445926
-      }
-    },
-    {
-      "id": 1031,
-      "generation": 83,
-      "energy": 2.9395749489265306,
-      "age": 17,
-      "genome": {
-        "efficiency": 1.5488416609918367,
-        "mobility": 1.8988164870369313,
-        "fertility": 1.418055305435712
-      }
-    },
-    {
-      "id": 723,
-      "generation": 64,
-      "energy": 1.25282728334472,
-      "age": 36,
-      "genome": {
-        "efficiency": 1.30220113680603,
-        "mobility": 1.9136434522408812,
-        "fertility": 1.3377676600330854
-      }
-    },
-    {
-      "id": 1269,
-      "generation": 95,
-      "energy": 3.0,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.3259868258145728,
-        "mobility": 1.8992469598850015,
-        "fertility": 1.7511619520534027
-      }
-    },
-    {
-      "id": 697,
-      "generation": 62,
-      "energy": 1.7395130961774825,
-      "age": 38,
-      "genome": {
-        "efficiency": 1.6066434807703562,
-        "mobility": 1.8960395133670918,
-        "fertility": 1.1559895823927482
-      }
-    },
-    {
-      "id": 1271,
-      "generation": 95,
-      "energy": 6.192888098486559,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.7309626994955196,
-        "mobility": 2.136876644299593,
-        "fertility": 1.340520848532737
-      }
-    },
-    {
-      "id": 1291,
-      "generation": 96,
-      "energy": 5.5333604207598075,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.1777868069199358,
-        "mobility": 2.013975789261595,
-        "fertility": 1.2658524924330739
-      }
-    },
-    {
-      "id": 1214,
-      "generation": 93,
-      "energy": 1.0,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.7682700298186358,
-        "mobility": 1.7535344503836072,
-        "fertility": 1.2823771720821964
-      }
-    },
-    {
-      "id": 1339,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.7094060338259727,
-        "mobility": 1.599788975803663,
-        "fertility": 1.3321845821582448
-      }
-    },
-    {
-      "id": 699,
-      "generation": 62,
-      "energy": 2.2908499427558047,
-      "age": 38,
-      "genome": {
-        "efficiency": 1.7621187476148252,
-        "mobility": 1.3577248477347168,
-        "fertility": 1.6496191541590024
-      }
-    },
-    {
-      "id": 1191,
-      "generation": 92,
-      "energy": 3.693804727957459,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.2312682426524864,
-        "mobility": 1.5013241380317166,
-        "fertility": 1.6586194055450463
-      }
-    },
-    {
-      "id": 1293,
-      "generation": 97,
-      "energy": 5.0,
+      "id": 3297,
+      "generation": 197,
+      "energy": 14.224298428696251,
       "age": 3,
       "genome": {
-        "efficiency": 1.5419214641242016,
-        "mobility": 1.3054154343719102,
-        "fertility": 1.5537593638407028
+        "efficiency": 1.537383071449375,
+        "mobility": 2.0478490025581175,
+        "fertility": 1.7971227516720885
       }
     },
     {
-      "id": 1135,
-      "generation": 89,
-      "energy": 5.178778907830331,
-      "age": 11,
+      "id": 3296,
+      "generation": 197,
+      "energy": 10.707436679832968,
+      "age": 3,
       "genome": {
-        "efficiency": 1.13097543420337,
-        "mobility": 1.9929316155783876,
-        "fertility": 1.7893647874874152
+        "efficiency": 1.9024788932776562,
+        "mobility": 1.9926056301376838,
+        "fertility": 1.0967862112331856
       }
     },
     {
-      "id": 1230,
-      "generation": 93,
-      "energy": 3.4941352950559583,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.4980450983519862,
-        "mobility": 1.7101361120663563,
-        "fertility": 1.5744313375004517
-      }
-    },
-    {
-      "id": 728,
-      "generation": 64,
-      "energy": 5.240073986782916,
-      "age": 36,
-      "genome": {
-        "efficiency": 1.6350030827826216,
-        "mobility": 1.6568986911332464,
-        "fertility": 1.3936550654232347
-      }
-    },
-    {
-      "id": 1318,
-      "generation": 98,
-      "energy": 4.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.2398727468414874,
-        "mobility": 1.728116627349116,
-        "fertility": 1.6265374258290684
-      }
-    },
-    {
-      "id": 1218,
-      "generation": 93,
-      "energy": 6.001071486959313,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.6670238289864376,
-        "mobility": 2.181363702566992,
-        "fertility": 1.5653764352142134
-      }
-    },
-    {
-      "id": 1188,
-      "generation": 92,
-      "energy": 1.2284783939758999,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.0761594646586334,
-        "mobility": 1.8138051454120254,
-        "fertility": 1.5751277379300896
-      }
-    },
-    {
-      "id": 963,
-      "generation": 79,
-      "energy": 3.807189362384392,
-      "age": 21,
-      "genome": {
-        "efficiency": 1.7339324468653659,
-        "mobility": 1.94933944950439,
-        "fertility": 1.3980900349455452
-      }
-    },
-    {
-      "id": 1074,
-      "generation": 85,
-      "energy": 5.401758298065586,
-      "age": 15,
-      "genome": {
-        "efficiency": 1.6001953664517317,
-        "mobility": 1.5588253543439141,
-        "fertility": 1.1839925999653476
-      }
-    },
-    {
-      "id": 1204,
-      "generation": 92,
-      "energy": 13.463878344157258,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.7182087049063617,
-        "mobility": 2.0256433893969104,
-        "fertility": 1.7189991659505557
-      }
-    },
-    {
-      "id": 1328,
-      "generation": 99,
-      "energy": 5.0,
-      "age": 1,
-      "genome": {
-        "efficiency": 1.8216518003174444,
-        "mobility": 1.6917304465929814,
-        "fertility": 1.7147907594816596
-      }
-    },
-    {
-      "id": 1313,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.6888100907607992,
-        "mobility": 1.627236820624082,
-        "fertility": 1.610861799337388
-      }
-    },
-    {
-      "id": 1323,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.3319762957790147,
-        "mobility": 1.7487236511562307,
-        "fertility": 1.6022884669993038
-      }
-    },
-    {
-      "id": 961,
-      "generation": 79,
-      "energy": 17.445650497957566,
-      "age": 21,
-      "genome": {
-        "efficiency": 1.6914250276643092,
-        "mobility": 1.8492690645225403,
-        "fertility": 1.182938311275995
-      }
-    },
-    {
-      "id": 848,
-      "generation": 71,
-      "energy": 2.5422689775174128,
-      "age": 29,
-      "genome": {
-        "efficiency": 1.530126054306523,
-        "mobility": 1.7720874553819204,
-        "fertility": 1.4765255946640718
-      }
-    },
-    {
-      "id": 1052,
-      "generation": 84,
-      "energy": 5.996395326573799,
-      "age": 16,
-      "genome": {
-        "efficiency": 1.7773772585082,
-        "mobility": 2.2550266252839397,
-        "fertility": 1.3715248683608974
-      }
-    },
-    {
-      "id": 1322,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.5845471604327255,
-        "mobility": 1.4144793633586066,
-        "fertility": 1.6118529745153145
-      }
-    },
-    {
-      "id": 1278,
-      "generation": 96,
-      "energy": 4.0,
+      "id": 3259,
+      "generation": 196,
+      "energy": 7.962413590645969,
       "age": 4,
       "genome": {
-        "efficiency": 1.1821022454614554,
-        "mobility": 1.949669510530615,
-        "fertility": 1.8464946988930928
+        "efficiency": 1.3208045302153233,
+        "mobility": 2.101855610492666,
+        "fertility": 1.7884427439249064
       }
     },
     {
-      "id": 1272,
-      "generation": 95,
-      "energy": 3.0,
-      "age": 5,
+      "id": 3127,
+      "generation": 190,
+      "energy": 11.135639678293325,
+      "age": 10,
       "genome": {
-        "efficiency": 1.7160732557907845,
-        "mobility": 1.7113568200877796,
-        "fertility": 1.3540897007266353
+        "efficiency": 1.903959964254814,
+        "mobility": 2.1877974385161862,
+        "fertility": 1.3784940354385444
       }
     },
     {
-      "id": 1085,
-      "generation": 86,
-      "energy": 1.436668690580241,
-      "age": 14,
-      "genome": {
-        "efficiency": 1.5727781150967068,
-        "mobility": 1.7426703274233886,
-        "fertility": 1.4743933845343122
-      }
-    },
-    {
-      "id": 1229,
-      "generation": 93,
-      "energy": 1.0,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.7033841970664938,
-        "mobility": 1.5023819961416511,
-        "fertility": 1.6937239416649608
-      }
-    },
-    {
-      "id": 1170,
-      "generation": 91,
-      "energy": 13.459810949099774,
+      "id": 3145,
+      "generation": 191,
+      "energy": 18.216070660203297,
       "age": 9,
       "genome": {
-        "efficiency": 1.8288678832333083,
-        "mobility": 1.5563472186577443,
-        "fertility": 1.0121288619047728
+        "efficiency": 2.357341184467033,
+        "mobility": 2.2392939619334142,
+        "fertility": 1.4767549045314505
       }
     },
     {
-      "id": 1227,
-      "generation": 93,
-      "energy": 5.08468183546837,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.3615606118227899,
-        "mobility": 1.7720911888696709,
-        "fertility": 1.6935207512203427
-      }
-    },
-    {
-      "id": 1117,
-      "generation": 88,
-      "energy": 4.195314231278058,
+      "id": 3065,
+      "generation": 188,
+      "energy": 3.896291489888956,
       "age": 12,
       "genome": {
-        "efficiency": 1.3550349145864509,
-        "mobility": 1.8953218975056136,
-        "fertility": 1.6775195163545293
+        "efficiency": 1.9827152483148258,
+        "mobility": 2.0984310929805083,
+        "fertility": 1.719756675362816
       }
     },
     {
-      "id": 1341,
-      "generation": 99,
-      "energy": 7.0,
-      "age": 1,
+      "id": 3209,
+      "generation": 194,
+      "energy": 4.595636488782713,
+      "age": 6,
       "genome": {
-        "efficiency": 1.8678630532656302,
-        "mobility": 2.1525315447191566,
-        "fertility": 1.2446245836427978
+        "efficiency": 1.5318788295942374,
+        "mobility": 1.6848311804130482,
+        "fertility": 1.8696820356039388
       }
     },
     {
-      "id": 1059,
-      "generation": 84,
-      "energy": 3.6331997703669607,
-      "age": 16,
-      "genome": {
-        "efficiency": 1.5147999744852179,
-        "mobility": 1.659806115546464,
-        "fertility": 1.8307314495673814
-      }
-    },
-    {
-      "id": 1197,
-      "generation": 92,
-      "energy": 13.914440710249352,
-      "age": 8,
-      "genome": {
-        "efficiency": 1.5460489678054834,
-        "mobility": 2.1865427297210642,
-        "fertility": 1.1429432536695474
-      }
-    },
-    {
-      "id": 1305,
-      "generation": 97,
-      "energy": 5.0,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.5442799996119163,
-        "mobility": 1.5872782701112123,
-        "fertility": 1.5619531935176165
-      }
-    },
-    {
-      "id": 1304,
-      "generation": 97,
-      "energy": 11.152510663980541,
-      "age": 3,
-      "genome": {
-        "efficiency": 2.0508368879935137,
-        "mobility": 1.6820778680291304,
-        "fertility": 1.2367251694663035
-      }
-    },
-    {
-      "id": 1268,
-      "generation": 95,
-      "energy": 8.49660236352677,
-      "age": 5,
-      "genome": {
-        "efficiency": 1.832200787842257,
-        "mobility": 1.8534313064629546,
-        "fertility": 1.6165970505770701
-      }
-    },
-    {
-      "id": 1175,
-      "generation": 91,
-      "energy": 13.725468745692012,
-      "age": 9,
-      "genome": {
-        "efficiency": 1.6361631939657788,
-        "mobility": 1.3642725194982215,
-        "fertility": 0.9759868931738277
-      }
-    },
-    {
-      "id": 754,
-      "generation": 65,
-      "energy": 0.4162692724875079,
-      "age": 35,
-      "genome": {
-        "efficiency": 1.3090112196869794,
-        "mobility": 1.9002491388856473,
-        "fertility": 1.4928688337723361
-      }
-    },
-    {
-      "id": 1181,
-      "generation": 91,
-      "energy": 5.0858419333742635,
-      "age": 9,
-      "genome": {
-        "efficiency": 2.028613977791421,
-        "mobility": 1.8968910047052918,
-        "fertility": 1.4706485926763346
-      }
-    },
-    {
-      "id": 1315,
-      "generation": 98,
+      "id": 3319,
+      "generation": 198,
       "energy": 6.0,
       "age": 2,
       "genome": {
-        "efficiency": 1.2119837569416627,
-        "mobility": 1.666568767589074,
-        "fertility": 1.7606785206028195
+        "efficiency": 1.7969699970354562,
+        "mobility": 2.0475987700267755,
+        "fertility": 2.0276824706931738
       }
     },
     {
-      "id": 1280,
-      "generation": 96,
+      "id": 3264,
+      "generation": 196,
       "energy": 4.0,
       "age": 4,
       "genome": {
-        "efficiency": 1.6721811542295364,
-        "mobility": 1.8098822752016472,
-        "fertility": 1.3942001871473448
+        "efficiency": 1.9556394785389961,
+        "mobility": 1.983624549933433,
+        "fertility": 1.6900737322086268
       }
     },
     {
-      "id": 1276,
-      "generation": 96,
-      "energy": 9.622153751323602,
-      "age": 4,
+      "id": 3305,
+      "generation": 198,
+      "energy": 4.0,
+      "age": 2,
       "genome": {
-        "efficiency": 1.8740512504412008,
-        "mobility": 1.7084988082638626,
-        "fertility": 0.9614179572631238
+        "efficiency": 2.123373660887094,
+        "mobility": 2.3860292486441272,
+        "fertility": 1.8387674975597346
       }
     },
     {
-      "id": 1208,
-      "generation": 93,
-      "energy": 5.743967145104527,
-      "age": 7,
+      "id": 3091,
+      "generation": 189,
+      "energy": 1.798012411942996,
+      "age": 11,
       "genome": {
-        "efficiency": 1.4573278575174209,
-        "mobility": 2.014070866845822,
-        "fertility": 1.2098170329144147
+        "efficiency": 1.5993374706476653,
+        "mobility": 1.869537906202761,
+        "fertility": 1.5009507742511228
       }
     },
     {
-      "id": 1232,
-      "generation": 93,
-      "energy": 13.267732220536512,
-      "age": 7,
-      "genome": {
-        "efficiency": 1.5853035800596127,
-        "mobility": 2.020525153992916,
-        "fertility": 1.2538337087681117
-      }
-    },
-    {
-      "id": 1327,
-      "generation": 99,
-      "energy": 5.0,
+      "id": 3338,
+      "generation": 199,
+      "energy": 7.0,
       "age": 1,
       "genome": {
-        "efficiency": 1.878671629647229,
-        "mobility": 1.9686116226292205,
-        "fertility": 1.5273476048671797
+        "efficiency": 1.7083921764253123,
+        "mobility": 2.172538029419392,
+        "fertility": 1.3025865661293436
       }
     },
     {
-      "id": 1158,
-      "generation": 90,
-      "energy": 5.001309968179164,
-      "age": 10,
+      "id": 3220,
+      "generation": 194,
+      "energy": 2.0,
+      "age": 6,
       "genome": {
-        "efficiency": 1.4445899964643516,
-        "mobility": 1.7589525235365207,
-        "fertility": 1.7181221780168554
+        "efficiency": 1.2331322241204183,
+        "mobility": 2.623275104894815,
+        "fertility": 1.4581147340993739
       }
     },
     {
-      "id": 1262,
-      "generation": 95,
+      "id": 3301,
+      "generation": 197,
+      "energy": 5.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 2.160223219291596,
+        "mobility": 2.115581200763335,
+        "fertility": 1.521299662302953
+      }
+    },
+    {
+      "id": 3231,
+      "generation": 195,
       "energy": 3.0,
       "age": 5,
       "genome": {
-        "efficiency": 1.4861593606216312,
-        "mobility": 1.7629185546976704,
-        "fertility": 1.7978405734342748
+        "efficiency": 1.8709001134301944,
+        "mobility": 1.9669584798950288,
+        "fertility": 1.9957981143349088
       }
     },
     {
-      "id": 742,
-      "generation": 64,
-      "energy": 9.759389690244618,
+      "id": 3308,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.8501902431885224,
+        "mobility": 2.1868634283046493,
+        "fertility": 1.8082955520022317
+      }
+    },
+    {
+      "id": 3309,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 2.193697495373069,
+        "mobility": 2.1177064901400064,
+        "fertility": 1.8173044550074642
+      }
+    },
+    {
+      "id": 3291,
+      "generation": 197,
+      "energy": 5.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 2.0375940275611644,
+        "mobility": 1.8602539704377155,
+        "fertility": 1.3956168460617622
+      }
+    },
+    {
+      "id": 3165,
+      "generation": 192,
+      "energy": 5.739102784733989,
+      "age": 8,
+      "genome": {
+        "efficiency": 1.9130342615779963,
+        "mobility": 1.9910514713725262,
+        "fertility": 1.9014789039187723
+      }
+    },
+    {
+      "id": 3252,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 2.2966717462064477,
+        "mobility": 2.25130807584385,
+        "fertility": 1.8527745157874056
+      }
+    },
+    {
+      "id": 3154,
+      "generation": 191,
+      "energy": 2.644326731425778,
+      "age": 9,
+      "genome": {
+        "efficiency": 1.8814422438085927,
+        "mobility": 2.2952203710512844,
+        "fertility": 1.2767384883857773
+      }
+    },
+    {
+      "id": 2584,
+      "generation": 164,
+      "energy": 5.300507687735291,
       "age": 36,
       "genome": {
-        "efficiency": 1.7399745704268592,
-        "mobility": 1.7659257330450644,
-        "fertility": 1.3209964187692198
+        "efficiency": 1.887521153655637,
+        "mobility": 2.037841109455983,
+        "fertility": 1.6430983124720153
       }
     },
     {
-      "id": 1139,
-      "generation": 89,
-      "energy": 2.0877805710049486,
-      "age": 11,
-      "genome": {
-        "efficiency": 1.6959268570016492,
-        "mobility": 1.614490936064133,
-        "fertility": 1.488570428711131
-      }
-    },
-    {
-      "id": 1095,
-      "generation": 86,
-      "energy": 7.074884317364599,
+      "id": 3025,
+      "generation": 186,
+      "energy": 3.1905048449276947,
       "age": 14,
       "genome": {
-        "efficiency": 1.5895736931137165,
-        "mobility": 2.016346329563205,
-        "fertility": 1.5408781381203243
+        "efficiency": 1.8650841408212824,
+        "mobility": 2.117806721784253,
+        "fertility": 1.2378362910506278
       }
     },
     {
-      "id": 1250,
-      "generation": 95,
-      "energy": 12.591855709364218,
+      "id": 3100,
+      "generation": 189,
+      "energy": 2.7000633577107784,
+      "age": 11,
+      "genome": {
+        "efficiency": 1.900021119236926,
+        "mobility": 2.081535077902866,
+        "fertility": 1.3293916133486658
+      }
+    },
+    {
+      "id": 2738,
+      "generation": 172,
+      "energy": 0.7694105188187166,
+      "age": 28,
+      "genome": {
+        "efficiency": 1.7307842099015598,
+        "mobility": 2.369394002212674,
+        "fertility": 1.3942051482308617
+      }
+    },
+    {
+      "id": 2898,
+      "generation": 180,
+      "energy": 10.012994327338966,
+      "age": 20,
+      "genome": {
+        "efficiency": 1.3340552404077204,
+        "mobility": 2.3750165352675148,
+        "fertility": 1.4411259946849813
+      }
+    },
+    {
+      "id": 3219,
+      "generation": 194,
+      "energy": 2.0,
+      "age": 6,
+      "genome": {
+        "efficiency": 1.4054331305702694,
+        "mobility": 1.8447766316057417,
+        "fertility": 1.99909565218472
+      }
+    },
+    {
+      "id": 3262,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.4992553405946663,
+        "mobility": 2.180289562714456,
+        "fertility": 1.7688145439564584
+      }
+    },
+    {
+      "id": 2789,
+      "generation": 175,
+      "energy": 11.531465124164576,
+      "age": 25,
+      "genome": {
+        "efficiency": 1.9184147291202545,
+        "mobility": 2.2414557117304965,
+        "fertility": 1.3095397799087651
+      }
+    },
+    {
+      "id": 2894,
+      "generation": 180,
+      "energy": 2.3150003494170193,
+      "age": 20,
+      "genome": {
+        "efficiency": 2.0350000388241134,
+        "mobility": 2.107567269281299,
+        "fertility": 1.5013675054534086
+      }
+    },
+    {
+      "id": 2822,
+      "generation": 176,
+      "energy": 10.241053960769886,
+      "age": 24,
+      "genome": {
+        "efficiency": 2.0160702640513257,
+        "mobility": 2.2340372811490634,
+        "fertility": 1.1458398040092799
+      }
+    },
+    {
+      "id": 3237,
+      "generation": 195,
+      "energy": 12.433632358954625,
       "age": 5,
       "genome": {
-        "efficiency": 1.5986426182273699,
-        "mobility": 1.7450534714939034,
-        "fertility": 1.4588336825663535
+        "efficiency": 1.5722720598257711,
+        "mobility": 2.7385734254390495,
+        "fertility": 1.4391247046847933
       }
     },
     {
-      "id": 1217,
-      "generation": 93,
-      "energy": 6.611183096628572,
-      "age": 7,
+      "id": 2802,
+      "generation": 175,
+      "energy": 1.969472593357346,
+      "age": 25,
       "genome": {
-        "efficiency": 1.8703943655428574,
-        "mobility": 1.4596149671941845,
-        "fertility": 1.8839446759949698
+        "efficiency": 1.2646315062238231,
+        "mobility": 1.8910098203984156,
+        "fertility": 1.745412986219004
       }
     },
     {
-      "id": 1215,
-      "generation": 93,
+      "id": 3232,
+      "generation": 195,
+      "energy": 3.0,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.8551313978819888,
+        "mobility": 1.9068016721161953,
+        "fertility": 2.0089477883478173
+      }
+    },
+    {
+      "id": 3228,
+      "generation": 195,
+      "energy": 3.0,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.969074670834415,
+        "mobility": 1.681122078755737,
+        "fertility": 1.9656767711403538
+      }
+    },
+    {
+      "id": 3184,
+      "generation": 193,
       "energy": 1.0,
       "age": 7,
       "genome": {
-        "efficiency": 1.8949758353423243,
-        "mobility": 1.4513311361256083,
-        "fertility": 1.1795815331981732
+        "efficiency": 2.089451911914146,
+        "mobility": 2.0101333799151524,
+        "fertility": 1.3833182943799502
       }
     },
     {
-      "id": 933,
-      "generation": 77,
-      "energy": 3.1523312956512646,
-      "age": 23,
+      "id": 3306,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
       "genome": {
-        "efficiency": 1.6793609413042718,
-        "mobility": 1.9284098096626938,
-        "fertility": 1.1617679099412825
+        "efficiency": 1.916803729165151,
+        "mobility": 1.9853284466572192,
+        "fertility": 1.491053099962461
       }
     },
     {
-      "id": 1277,
-      "generation": 96,
-      "energy": 7.106053654044032,
-      "age": 4,
+      "id": 3193,
+      "generation": 193,
+      "energy": 1.0,
+      "age": 7,
       "genome": {
-        "efficiency": 1.7020178846813443,
-        "mobility": 1.6202044497725245,
-        "fertility": 1.6106978673299002
+        "efficiency": 1.9342497422458906,
+        "mobility": 2.144128796260694,
+        "fertility": 1.4261142687865016
       }
     },
     {
-      "id": 1256,
-      "generation": 95,
+      "id": 3340,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.747881256746232,
+        "mobility": 2.2003836446130602,
+        "fertility": 1.3146125680109004
+      }
+    },
+    {
+      "id": 3185,
+      "generation": 193,
+      "energy": 14.823270297055572,
+      "age": 7,
+      "genome": {
+        "efficiency": 2.303878382842595,
+        "mobility": 1.696065872151233,
+        "fertility": 1.6473647483074731
+      }
+    },
+    {
+      "id": 3235,
+      "generation": 195,
       "energy": 3.0,
       "age": 5,
       "genome": {
-        "efficiency": 1.603515537393984,
-        "mobility": 1.5648683340266547,
-        "fertility": 1.7284645697757817
+        "efficiency": 1.8237440098431503,
+        "mobility": 2.022316476660611,
+        "fertility": 1.8482118199410478
       }
     },
     {
-      "id": 730,
-      "generation": 64,
-      "energy": 0.9564719568634095,
-      "age": 36,
+      "id": 3225,
+      "generation": 195,
+      "energy": 1.0,
+      "age": 5,
       "genome": {
-        "efficiency": 1.5693558074696858,
-        "mobility": 1.7546018005044552,
-        "fertility": 1.4640825508916795
+        "efficiency": 1.721431918488134,
+        "mobility": 1.9927595727282945,
+        "fertility": 1.7404152049031307
       }
     },
     {
-      "id": 1167,
-      "generation": 90,
-      "energy": 3.9292006806648203,
+      "id": 3270,
+      "generation": 196,
+      "energy": 2.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 2.040391355319595,
+        "mobility": 2.071065308906413,
+        "fertility": 1.5878507237171995
+      }
+    },
+    {
+      "id": 2994,
+      "generation": 185,
+      "energy": 8.76016037091317,
+      "age": 15,
+      "genome": {
+        "efficiency": 1.7511289301014632,
+        "mobility": 2.0231007484580963,
+        "fertility": 1.4198114668272976
+      }
+    },
+    {
+      "id": 3342,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 2.0672790986428584,
+        "mobility": 2.3107221785879117,
+        "fertility": 1.618516820502225
+      }
+    },
+    {
+      "id": 3156,
+      "generation": 191,
+      "energy": 9.158108716982786,
+      "age": 9,
+      "genome": {
+        "efficiency": 1.693018119497131,
+        "mobility": 2.0545477378937007,
+        "fertility": 1.7658147363725196
+      }
+    },
+    {
+      "id": 3128,
+      "generation": 190,
+      "energy": 6.958267382375116,
       "age": 10,
       "genome": {
-        "efficiency": 1.6548667801108032,
-        "mobility": 2.06972338156771,
-        "fertility": 1.2716410904667603
+        "efficiency": 1.8263778970625193,
+        "mobility": 2.3181858154253328,
+        "fertility": 1.427338367046441
       }
     },
     {
-      "id": 942,
-      "generation": 78,
-      "energy": 3.8358111356910776,
-      "age": 22,
+      "id": 3210,
+      "generation": 194,
+      "energy": 5.714007388501674,
+      "age": 6,
       "genome": {
-        "efficiency": 1.1890540757127386,
-        "mobility": 1.7089341823594004,
-        "fertility": 1.2302684757381013
+        "efficiency": 1.9046691295005578,
+        "mobility": 1.8697803962732977,
+        "fertility": 1.9862645500000804
       }
     },
     {
-      "id": 1233,
-      "generation": 93,
-      "energy": 5.34066480744907,
-      "age": 7,
+      "id": 3233,
+      "generation": 195,
+      "energy": 3.0,
+      "age": 5,
       "genome": {
-        "efficiency": 1.4468882691496898,
-        "mobility": 1.7209715666774659,
-        "fertility": 1.0531572104087457
+        "efficiency": 2.4408825437148995,
+        "mobility": 1.9579419155278406,
+        "fertility": 1.6709295784678577
       }
     },
     {
-      "id": 1057,
-      "generation": 84,
-      "energy": 7.950550710656566,
-      "age": 16,
-      "genome": {
-        "efficiency": 1.5967033807104378,
-        "mobility": 1.7758991715374817,
-        "fertility": 1.7005642125897125
-      }
-    },
-    {
-      "id": 1307,
-      "generation": 98,
+      "id": 3316,
+      "generation": 198,
       "energy": 6.0,
       "age": 2,
       "genome": {
-        "efficiency": 1.3495049181330983,
-        "mobility": 1.5816185245241243,
-        "fertility": 1.666512962977512
+        "efficiency": 1.2239200860361505,
+        "mobility": 2.779037648851412,
+        "fertility": 1.6297157877501913
       }
     },
     {
-      "id": 1231,
-      "generation": 93,
-      "energy": 3.7734844603734388,
+      "id": 3182,
+      "generation": 193,
+      "energy": 6.1700740520919,
       "age": 7,
       "genome": {
-        "efficiency": 1.5911614867911466,
-        "mobility": 1.7985579742757671,
-        "fertility": 1.418333836801354
+        "efficiency": 1.7233580173639667,
+        "mobility": 1.6035425623052526,
+        "fertility": 1.3024972420618157
       }
     },
     {
-      "id": 1098,
-      "generation": 86,
-      "energy": 1.0562006911674136,
-      "age": 14,
-      "genome": {
-        "efficiency": 1.5093667818612355,
-        "mobility": 1.2475175023628673,
-        "fertility": 1.538508338342457
-      }
-    },
-    {
-      "id": 1314,
-      "generation": 98,
-      "energy": 6.0,
-      "age": 2,
-      "genome": {
-        "efficiency": 1.6650374910879793,
-        "mobility": 1.958169399012891,
-        "fertility": 1.3997979181695974
-      }
-    },
-    {
-      "id": 915,
-      "generation": 76,
-      "energy": 2.678506484364293,
-      "age": 24,
-      "genome": {
-        "efficiency": 1.7232088736970246,
-        "mobility": 1.7034982757520374,
-        "fertility": 1.3963722059358648
-      }
-    },
-    {
-      "id": 1009,
-      "generation": 82,
-      "energy": 5.694777419431581,
-      "age": 18,
-      "genome": {
-        "efficiency": 1.6412314516192983,
-        "mobility": 1.346645781127369,
-        "fertility": 1.5534548493651235
-      }
-    },
-    {
-      "id": 1279,
-      "generation": 96,
-      "energy": 8.671098717646796,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.5570329058822654,
-        "mobility": 1.5688395414678502,
-        "fertility": 1.5458877776442634
-      }
-    },
-    {
-      "id": 1300,
-      "generation": 97,
-      "energy": 9.475011933818536,
-      "age": 3,
-      "genome": {
-        "efficiency": 1.491670644606179,
-        "mobility": 1.7627072116219602,
-        "fertility": 1.8914342431121607
-      }
-    },
-    {
-      "id": 789,
-      "generation": 67,
-      "energy": 0.8455049045563374,
-      "age": 33,
-      "genome": {
-        "efficiency": 1.5164526145026829,
-        "mobility": 1.7711833371089183,
-        "fertility": 1.5233462544052059
-      }
-    },
-    {
-      "id": 978,
-      "generation": 80,
-      "energy": 2.7903527032332196,
-      "age": 20,
-      "genome": {
-        "efficiency": 1.8655947448036911,
-        "mobility": 1.7448095284860963,
-        "fertility": 1.2868856666791888
-      }
-    },
-    {
-      "id": 1283,
-      "generation": 96,
-      "energy": 9.782313903304065,
-      "age": 4,
-      "genome": {
-        "efficiency": 1.9274379677680218,
-        "mobility": 1.670266656711101,
-        "fertility": 1.1892135790297937
-      }
-    },
-    {
-      "id": 970,
-      "generation": 80,
-      "energy": 7.82935179463237,
-      "age": 20,
-      "genome": {
-        "efficiency": 1.5886234529754912,
-        "mobility": 1.9715505701837985,
-        "fertility": 1.3843786385573322
-      }
-    },
-    {
-      "id": 1067,
-      "generation": 85,
-      "energy": 7.636279815304974,
-      "age": 15,
-      "genome": {
-        "efficiency": 1.3863566512754144,
-        "mobility": 1.513934519193023,
-        "fertility": 1.557783112877578
-      }
-    },
-    {
-      "id": 1048,
-      "generation": 84,
-      "energy": 12.948108842929614,
-      "age": 16,
-      "genome": {
-        "efficiency": 1.4971171579405338,
-        "mobility": 1.8398104421446086,
-        "fertility": 1.3626340709747067
-      }
-    },
-    {
-      "id": 1066,
-      "generation": 85,
-      "energy": 3.126089350791611,
-      "age": 15,
-      "genome": {
-        "efficiency": 1.5695654834212902,
-        "mobility": 1.4100308877742604,
-        "fertility": 1.7761205299441682
-      }
-    },
-    {
-      "id": 1106,
-      "generation": 87,
-      "energy": 4.739726281067636,
-      "age": 13,
-      "genome": {
-        "efficiency": 1.6232877135112727,
-        "mobility": 1.9253178352760019,
-        "fertility": 1.3409367761854853
-      }
-    },
-    {
-      "id": 1298,
-      "generation": 97,
+      "id": 3283,
+      "generation": 197,
       "energy": 5.0,
       "age": 3,
       "genome": {
-        "efficiency": 1.375013132640888,
-        "mobility": 1.6179841405170474,
-        "fertility": 1.638159709932406
+        "efficiency": 1.561554203285405,
+        "mobility": 1.6381683602525483,
+        "fertility": 1.8799372674870043
       }
     },
     {
-      "id": 1347,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 2673,
+      "generation": 169,
+      "energy": 0.41556057817085446,
+      "age": 31,
       "genome": {
-        "efficiency": 1.7296232314571225,
-        "mobility": 1.1698142625616212,
-        "fertility": 1.5473011504915763
+        "efficiency": 1.9512967148475713,
+        "mobility": 1.896416377852772,
+        "fertility": 1.1430147085087876
       }
     },
     {
-      "id": 1348,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 2964,
+      "generation": 183,
+      "energy": 5.385314720534126,
+      "age": 17,
       "genome": {
-        "efficiency": 1.6311663189532186,
-        "mobility": 1.6314125535242507,
-        "fertility": 1.3991884803703918
+        "efficiency": 1.865442893377844,
+        "mobility": 2.0471880069436117,
+        "fertility": 1.3892731486329903
       }
     },
     {
-      "id": 1349,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 2950,
+      "generation": 183,
+      "energy": 2.172871279645314,
+      "age": 17,
       "genome": {
-        "efficiency": 1.8491090681629871,
-        "mobility": 1.5814542830855196,
-        "fertility": 1.47108468156019
+        "efficiency": 1.6858745866272569,
+        "mobility": 2.1620740608223907,
+        "fertility": 1.5202746326458274
       }
     },
     {
-      "id": 1350,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 2973,
+      "generation": 184,
+      "energy": 1.5201300573235876,
+      "age": 16,
       "genome": {
-        "efficiency": 2.083704535408422,
-        "mobility": 1.192691775205916,
-        "fertility": 1.7019028986426823
+        "efficiency": 1.5866883428872645,
+        "mobility": 2.0091364872581594,
+        "fertility": 1.9277550364197233
       }
     },
     {
-      "id": 1351,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3328,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
       "genome": {
-        "efficiency": 1.525095704795785,
-        "mobility": 2.0619656586418085,
-        "fertility": 1.3822006642703155
+        "efficiency": 2.183672063071285,
+        "mobility": 1.781912812719324,
+        "fertility": 1.3595251166804199
       }
     },
     {
-      "id": 1352,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 2562,
+      "generation": 163,
+      "energy": 9.110647180527394,
+      "age": 37,
       "genome": {
-        "efficiency": 1.3708101992989534,
-        "mobility": 1.6437000559120396,
-        "fertility": 1.611818354025799
+        "efficiency": 1.7546102991886414,
+        "mobility": 1.7408532835296797,
+        "fertility": 1.865821890750187
       }
     },
     {
-      "id": 1353,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3186,
+      "generation": 193,
+      "energy": 4.554536219988602,
+      "age": 7,
       "genome": {
-        "efficiency": 1.4180571253785665,
-        "mobility": 1.5802839818931076,
-        "fertility": 1.681136166863889
+        "efficiency": 1.851512073329534,
+        "mobility": 2.1814330325658564,
+        "fertility": 1.9831071745049904
       }
     },
     {
-      "id": 1354,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3260,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
       "genome": {
-        "efficiency": 1.9295166517677664,
-        "mobility": 1.7025482898745983,
-        "fertility": 1.7681650211040902
+        "efficiency": 2.0408670703821974,
+        "mobility": 2.0501177673054793,
+        "fertility": 1.452668531406016
       }
     },
     {
-      "id": 1355,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3267,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
       "genome": {
-        "efficiency": 1.6042534754453497,
-        "mobility": 1.8475559526976546,
-        "fertility": 1.8605202357086192
+        "efficiency": 1.6394412366415305,
+        "mobility": 2.123192918848105,
+        "fertility": 1.8899917906533115
       }
     },
     {
-      "id": 1356,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 2869,
+      "generation": 179,
+      "energy": 15.521524854761623,
+      "age": 21,
       "genome": {
-        "efficiency": 1.676415190715975,
-        "mobility": 1.5645399215769658,
-        "fertility": 1.737425934264021
+        "efficiency": 2.0289736030423122,
+        "mobility": 1.8717776273123503,
+        "fertility": 1.4529962392129616
       }
     },
     {
-      "id": 1357,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 2811,
+      "generation": 176,
+      "energy": 14.305639470650739,
+      "age": 24,
       "genome": {
-        "efficiency": 1.6356237696109028,
-        "mobility": 1.5235611586190059,
-        "fertility": 1.4839269957177408
+        "efficiency": 1.9193161652690827,
+        "mobility": 2.1172244661811708,
+        "fertility": 1.9057109485214858
       }
     },
     {
-      "id": 1358,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3239,
+      "generation": 195,
+      "energy": 1.0,
+      "age": 5,
       "genome": {
-        "efficiency": 1.1425476075743333,
-        "mobility": 1.5919993095719032,
-        "fertility": 1.554816460481045
+        "efficiency": 1.401655053915793,
+        "mobility": 1.977394822005558,
+        "fertility": 1.4231429191890557
       }
     },
     {
-      "id": 1359,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3218,
+      "generation": 194,
+      "energy": 6.841230597335915,
+      "age": 6,
       "genome": {
-        "efficiency": 2.1615886542697718,
-        "mobility": 1.6254681833333617,
-        "fertility": 1.2944332127832572
+        "efficiency": 1.6137435324453049,
+        "mobility": 2.153063512504717,
+        "fertility": 1.7364782394151972
       }
     },
     {
-      "id": 1360,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3257,
+      "generation": 196,
+      "energy": 2.0,
+      "age": 4,
       "genome": {
-        "efficiency": 1.7892820568903267,
-        "mobility": 2.0644303122257974,
-        "fertility": 1.5826272420781884
+        "efficiency": 1.6120087170531936,
+        "mobility": 2.0865070223192594,
+        "fertility": 1.3686390997875135
       }
     },
     {
-      "id": 1361,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3242,
+      "generation": 195,
+      "energy": 3.0,
+      "age": 5,
       "genome": {
-        "efficiency": 1.6581255291009804,
-        "mobility": 1.9222411596551736,
-        "fertility": 1.391400799173939
+        "efficiency": 1.7180735020671936,
+        "mobility": 1.6966085030175846,
+        "fertility": 1.9700905442347882
       }
     },
     {
-      "id": 1362,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 2527,
+      "generation": 162,
+      "energy": 16.21471043957967,
+      "age": 38,
       "genome": {
-        "efficiency": 1.702710456726036,
-        "mobility": 2.3368383987946024,
-        "fertility": 1.2351684839382697
+        "efficiency": 1.8598040903548025,
+        "mobility": 1.9172161483497472,
+        "fertility": 1.7864469652198318
       }
     },
     {
-      "id": 1363,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3160,
+      "generation": 192,
+      "energy": 3.2573735059301825,
+      "age": 8,
       "genome": {
-        "efficiency": 1.783649885469527,
-        "mobility": 1.6937063731590114,
-        "fertility": 1.7113820191066178
+        "efficiency": 1.2095622509883635,
+        "mobility": 2.6772049806365574,
+        "fertility": 1.5386419071336763
       }
     },
     {
-      "id": 1364,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3263,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
       "genome": {
-        "efficiency": 1.6866118693953618,
-        "mobility": 1.76819817284116,
-        "fertility": 1.625189989621255
+        "efficiency": 1.707363769333879,
+        "mobility": 1.9797015656261794,
+        "fertility": 1.3888509922212755
       }
     },
     {
-      "id": 1365,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3303,
+      "generation": 198,
+      "energy": 9.021221765128633,
+      "age": 2,
       "genome": {
-        "efficiency": 1.72494752925941,
-        "mobility": 1.3737327766605583,
-        "fertility": 1.593303474407292
+        "efficiency": 2.3404072550428774,
+        "mobility": 2.2563456063676695,
+        "fertility": 1.3941349592249725
       }
     },
     {
-      "id": 1366,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3245,
+      "generation": 195,
+      "energy": 1.0,
+      "age": 5,
       "genome": {
-        "efficiency": 1.6205075754282048,
-        "mobility": 1.940302413308852,
-        "fertility": 1.794630092534406
+        "efficiency": 1.7495646646188914,
+        "mobility": 1.7786586330392702,
+        "fertility": 1.8831382082033632
       }
     },
     {
-      "id": 1367,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3226,
+      "generation": 195,
+      "energy": 3.0,
+      "age": 5,
       "genome": {
-        "efficiency": 1.7571349657657023,
-        "mobility": 1.779364543010616,
-        "fertility": 1.7590282847519787
+        "efficiency": 1.93246637843347,
+        "mobility": 2.103203505674942,
+        "fertility": 1.7590275946716518
       }
     },
     {
-      "id": 1368,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3215,
+      "generation": 194,
+      "energy": 6.1615896310790905,
+      "age": 6,
       "genome": {
-        "efficiency": 1.4303882682188254,
-        "mobility": 1.9888550186413188,
-        "fertility": 1.324603701844217
+        "efficiency": 2.053863210359697,
+        "mobility": 2.1904681694306234,
+        "fertility": 1.6660290415432277
       }
     },
     {
-      "id": 1369,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3123,
+      "generation": 190,
+      "energy": 17.39620268124746,
+      "age": 10,
       "genome": {
-        "efficiency": 1.890738735806001,
-        "mobility": 1.9142403422258434,
-        "fertility": 1.5082946712718353
+        "efficiency": 2.37735585347194,
+        "mobility": 2.2412355425194974,
+        "fertility": 1.5445561285693954
       }
     },
     {
-      "id": 1370,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3293,
+      "generation": 197,
+      "energy": 5.0,
+      "age": 3,
       "genome": {
-        "efficiency": 1.7893331758632758,
-        "mobility": 1.83947768805989,
-        "fertility": 1.2792023277507165
+        "efficiency": 1.895926850802887,
+        "mobility": 1.6133907104994116,
+        "fertility": 1.3161117831397937
       }
     },
     {
-      "id": 1371,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3224,
+      "generation": 195,
+      "energy": 1.0,
+      "age": 5,
       "genome": {
-        "efficiency": 1.5016204305312584,
-        "mobility": 1.9354332623599362,
-        "fertility": 1.5456954101927098
+        "efficiency": 1.4631795557623932,
+        "mobility": 2.217604746844122,
+        "fertility": 1.8482481550037733
       }
     },
     {
-      "id": 1372,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 3146,
+      "generation": 191,
+      "energy": 1.831808771849584,
+      "age": 9,
       "genome": {
-        "efficiency": 1.5999866358112178,
-        "mobility": 1.564400086636563,
-        "fertility": 1.3826668789319196
+        "efficiency": 1.6106029239498614,
+        "mobility": 2.5872367468540056,
+        "fertility": 1.4935857028919715
       }
     },
     {
-      "id": 1373,
-      "generation": 100,
-      "energy": 8.0,
-      "age": 0,
+      "id": 2702,
+      "generation": 170,
+      "energy": 4.511394989721829,
+      "age": 30,
       "genome": {
-        "efficiency": 1.5143597462792218,
-        "mobility": 1.7586861338228978,
-        "fertility": 1.4078645377164412
+        "efficiency": 1.5839663883178794,
+        "mobility": 1.951604664176689,
+        "fertility": 1.327723895057376
       }
     },
     {
-      "id": 1374,
-      "generation": 100,
+      "id": 3046,
+      "generation": 187,
+      "energy": 4.109399426542495,
+      "age": 13,
+      "genome": {
+        "efficiency": 1.851566571090416,
+        "mobility": 2.2181305079189957,
+        "fertility": 1.4091209188369123
+      }
+    },
+    {
+      "id": 2934,
+      "generation": 182,
+      "energy": 6.13756020910837,
+      "age": 18,
+      "genome": {
+        "efficiency": 1.7930622454564857,
+        "mobility": 2.051933133526027,
+        "fertility": 1.36832904287894
+      }
+    },
+    {
+      "id": 3151,
+      "generation": 191,
+      "energy": 3.3388803049445706,
+      "age": 9,
+      "genome": {
+        "efficiency": 2.11296010164819,
+        "mobility": 2.2046805913835095,
+        "fertility": 1.5758012765804963
+      }
+    },
+    {
+      "id": 2652,
+      "generation": 168,
+      "energy": 3.0351844902500815,
+      "age": 32,
+      "genome": {
+        "efficiency": 1.7241769161250042,
+        "mobility": 1.9096823312836397,
+        "fertility": 1.652746579818128
+      }
+    },
+    {
+      "id": 3325,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 2.0412882750460364,
+        "mobility": 1.611150525821536,
+        "fertility": 1.268577987101455
+      }
+    },
+    {
+      "id": 3322,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.6607030136095198,
+        "mobility": 2.0141009113871995,
+        "fertility": 1.8294101015113928
+      }
+    },
+    {
+      "id": 3141,
+      "generation": 191,
+      "energy": 4.662275930188148,
+      "age": 9,
+      "genome": {
+        "efficiency": 1.887425310062716,
+        "mobility": 2.2361987454667567,
+        "fertility": 1.3039614114431972
+      }
+    },
+    {
+      "id": 3227,
+      "generation": 195,
+      "energy": 1.0,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.4846895834844545,
+        "mobility": 1.7712989965786108,
+        "fertility": 1.9179474623280242
+      }
+    },
+    {
+      "id": 2946,
+      "generation": 182,
+      "energy": 1.8716670269044613,
+      "age": 18,
+      "genome": {
+        "efficiency": 1.7635185585449402,
+        "mobility": 1.981533686704509,
+        "fertility": 1.7808856333523826
+      }
+    },
+    {
+      "id": 2997,
+      "generation": 185,
+      "energy": 10.044529224086837,
+      "age": 15,
+      "genome": {
+        "efficiency": 2.0870441020072366,
+        "mobility": 2.345897959141768,
+        "fertility": 1.6836950209958337
+      }
+    },
+    {
+      "id": 2850,
+      "generation": 178,
+      "energy": 2.2838728644426283,
+      "age": 22,
+      "genome": {
+        "efficiency": 1.5236560720368857,
+        "mobility": 2.4144208311577704,
+        "fertility": 1.6227642588368154
+      }
+    },
+    {
+      "id": 3223,
+      "generation": 195,
+      "energy": 7.04638355404664,
+      "age": 5,
+      "genome": {
+        "efficiency": 2.0154611846822132,
+        "mobility": 2.0564754783687267,
+        "fertility": 1.5841631544833075
+      }
+    },
+    {
+      "id": 2519,
+      "generation": 161,
+      "energy": 11.739112057237264,
+      "age": 39,
+      "genome": {
+        "efficiency": 1.8641296690515528,
+        "mobility": 2.3115345830674903,
+        "fertility": 1.2732086272212753
+      }
+    },
+    {
+      "id": 3253,
+      "generation": 196,
+      "energy": 8.04032915087791,
+      "age": 4,
+      "genome": {
+        "efficiency": 2.0134430502926364,
+        "mobility": 1.974971734814854,
+        "fertility": 1.4316886353729052
+      }
+    },
+    {
+      "id": 3336,
+      "generation": 199,
+      "energy": 5.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.7181673469147287,
+        "mobility": 2.1883710227339606,
+        "fertility": 1.7130993743064713
+      }
+    },
+    {
+      "id": 2782,
+      "generation": 175,
+      "energy": 17.07228966606546,
+      "age": 25,
+      "genome": {
+        "efficiency": 1.7177280793364502,
+        "mobility": 2.1742541304676553,
+        "fertility": 1.445611355743401
+      }
+    },
+    {
+      "id": 3006,
+      "generation": 185,
+      "energy": 12.031897907136397,
+      "age": 15,
+      "genome": {
+        "efficiency": 1.752658158928033,
+        "mobility": 2.0199321707920075,
+        "fertility": 1.8371802737865581
+      }
+    },
+    {
+      "id": 3273,
+      "generation": 196,
+      "energy": 2.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 2.1910469628536977,
+        "mobility": 1.9570182903128404,
+        "fertility": 1.7945435576044892
+      }
+    },
+    {
+      "id": 3174,
+      "generation": 192,
+      "energy": 8.208431549656375,
+      "age": 8,
+      "genome": {
+        "efficiency": 1.368071924942729,
+        "mobility": 2.098515370469414,
+        "fertility": 1.2330471940080836
+      }
+    },
+    {
+      "id": 3289,
+      "generation": 197,
+      "energy": 1.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.3424664403774198,
+        "mobility": 2.0872805141882385,
+        "fertility": 1.5879357020076605
+      }
+    },
+    {
+      "id": 3339,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 2.1028889019053825,
+        "mobility": 2.243908605648266,
+        "fertility": 1.8696396308049628
+      }
+    },
+    {
+      "id": 3179,
+      "generation": 192,
+      "energy": 11.37370550361791,
+      "age": 8,
+      "genome": {
+        "efficiency": 2.2289509172696516,
+        "mobility": 1.9064084503501144,
+        "fertility": 1.6942645269872547
+      }
+    },
+    {
+      "id": 3016,
+      "generation": 185,
+      "energy": 3.967705755733604,
+      "age": 15,
+      "genome": {
+        "efficiency": 1.8279509592889343,
+        "mobility": 2.1619236964829858,
+        "fertility": 1.8107479727733018
+      }
+    },
+    {
+      "id": 2755,
+      "generation": 173,
+      "energy": 5.472840148889508,
+      "age": 27,
+      "genome": {
+        "efficiency": 2.0315226765926337,
+        "mobility": 1.938554724224751,
+        "fertility": 1.361122895525471
+      }
+    },
+    {
+      "id": 3197,
+      "generation": 193,
+      "energy": 1.0,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.9506210998493887,
+        "mobility": 1.7600042359214556,
+        "fertility": 1.3832826149185486
+      }
+    },
+    {
+      "id": 3201,
+      "generation": 193,
+      "energy": 7.334297097307708,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.7223828495512845,
+        "mobility": 2.101147020772352,
+        "fertility": 1.5082682321835779
+      }
+    },
+    {
+      "id": 3247,
+      "generation": 195,
+      "energy": 6.7363458633322,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.9121152877774004,
+        "mobility": 2.0850519846143136,
+        "fertility": 1.5638646678373855
+      }
+    },
+    {
+      "id": 3278,
+      "generation": 196,
+      "energy": 8.62805851567776,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.5426861718925866,
+        "mobility": 2.430847064444443,
+        "fertility": 1.9428804156976294
+      }
+    },
+    {
+      "id": 3144,
+      "generation": 191,
+      "energy": 0.8155752102729963,
+      "age": 9,
+      "genome": {
+        "efficiency": 1.9385250700909984,
+        "mobility": 1.9052943554123551,
+        "fertility": 1.8623356947886114
+      }
+    },
+    {
+      "id": 3062,
+      "generation": 188,
+      "energy": 0.523620079723667,
+      "age": 12,
+      "genome": {
+        "efficiency": 2.174540026574556,
+        "mobility": 1.9786863062123958,
+        "fertility": 1.859250290839342
+      }
+    },
+    {
+      "id": 3149,
+      "generation": 191,
+      "energy": 11.529698533755038,
+      "age": 9,
+      "genome": {
+        "efficiency": 2.421616422292506,
+        "mobility": 1.724644882938642,
+        "fertility": 1.724169198812291
+      }
+    },
+    {
+      "id": 3071,
+      "generation": 188,
+      "energy": 4.860978785245884,
+      "age": 12,
+      "genome": {
+        "efficiency": 1.8101631308743138,
+        "mobility": 2.167277634589081,
+        "fertility": 1.2680506302525976
+      }
+    },
+    {
+      "id": 3271,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.865133439862067,
+        "mobility": 2.303179326248844,
+        "fertility": 1.1591715159174023
+      }
+    },
+    {
+      "id": 3321,
+      "generation": 199,
+      "energy": 5.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 2.37230208756225,
+        "mobility": 2.253655925549071,
+        "fertility": 1.2975776501743435
+      }
+    },
+    {
+      "id": 3036,
+      "generation": 186,
+      "energy": 9.373985381615348,
+      "age": 14,
+      "genome": {
+        "efficiency": 2.1526650424017055,
+        "mobility": 2.3626947150564717,
+        "fertility": 1.8096904798528886
+      }
+    },
+    {
+      "id": 3208,
+      "generation": 194,
+      "energy": 5.577613426506778,
+      "age": 6,
+      "genome": {
+        "efficiency": 1.8592044755022592,
+        "mobility": 1.4320920492029179,
+        "fertility": 1.9281824505971752
+      }
+    },
+    {
+      "id": 3072,
+      "generation": 188,
+      "energy": 6.476459673189655,
+      "age": 12,
+      "genome": {
+        "efficiency": 1.7460766121982758,
+        "mobility": 1.3548988489958032,
+        "fertility": 1.8835011165642939
+      }
+    },
+    {
+      "id": 2549,
+      "generation": 163,
+      "energy": 0.462098579584417,
+      "age": 37,
+      "genome": {
+        "efficiency": 1.7478943655324677,
+        "mobility": 2.2645842142209354,
+        "fertility": 1.4087015609941167
+      }
+    },
+    {
+      "id": 3018,
+      "generation": 186,
+      "energy": 2.718873924449664,
+      "age": 14,
+      "genome": {
+        "efficiency": 1.7864789874082774,
+        "mobility": 2.1007478502132177,
+        "fertility": 1.9018323244206246
+      }
+    },
+    {
+      "id": 3173,
+      "generation": 192,
+      "energy": 7.993308168258757,
+      "age": 8,
+      "genome": {
+        "efficiency": 1.998884694709793,
+        "mobility": 2.175112693635683,
+        "fertility": 1.581616614805084
+      }
+    },
+    {
+      "id": 3079,
+      "generation": 188,
+      "energy": 4.8026355747329035,
+      "age": 12,
+      "genome": {
+        "efficiency": 1.8004392624554841,
+        "mobility": 2.121814781503963,
+        "fertility": 1.773001280060911
+      }
+    },
+    {
+      "id": 3255,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.7611606301951004,
+        "mobility": 2.2067219689402777,
+        "fertility": 1.446194192722544
+      }
+    },
+    {
+      "id": 3116,
+      "generation": 190,
+      "energy": 3.051052544079445,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.683684181359815,
+        "mobility": 2.218805508480883,
+        "fertility": 2.019969993720459
+      }
+    },
+    {
+      "id": 3318,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.837169149843263,
+        "mobility": 2.2384285083853244,
+        "fertility": 2.4536964662251646
+      }
+    },
+    {
+      "id": 3331,
+      "generation": 199,
+      "energy": 5.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 2.0818320856530654,
+        "mobility": 2.330081127040857,
+        "fertility": 1.4513478526766865
+      }
+    },
+    {
+      "id": 3337,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.3199627223935697,
+        "mobility": 2.0996412730924856,
+        "fertility": 1.5806563582405395
+      }
+    },
+    {
+      "id": 3200,
+      "generation": 193,
+      "energy": 1.0,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.4664697967178304,
+        "mobility": 1.7803618076873933,
+        "fertility": 1.717925969527339
+      }
+    },
+    {
+      "id": 3298,
+      "generation": 197,
+      "energy": 5.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.7738463689680917,
+        "mobility": 2.235714535364289,
+        "fertility": 1.8453767638225724
+      }
+    },
+    {
+      "id": 3199,
+      "generation": 193,
+      "energy": 1.0,
+      "age": 7,
+      "genome": {
+        "efficiency": 2.0710888609856117,
+        "mobility": 2.230615318254248,
+        "fertility": 1.2596834599905309
+      }
+    },
+    {
+      "id": 3175,
+      "generation": 192,
+      "energy": 6.267668763762622,
+      "age": 8,
+      "genome": {
+        "efficiency": 2.0892229212542075,
+        "mobility": 2.0503373865954972,
+        "fertility": 1.3549055846271094
+      }
+    },
+    {
+      "id": 3122,
+      "generation": 190,
+      "energy": 3.864034920815925,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.9546783069386413,
+        "mobility": 1.6456321947513293,
+        "fertility": 1.5556530384714413
+      }
+    },
+    {
+      "id": 2938,
+      "generation": 182,
+      "energy": 10.290120398532421,
+      "age": 18,
+      "genome": {
+        "efficiency": 1.886008026568828,
+        "mobility": 2.011318824520374,
+        "fertility": 1.8763009370219064
+      }
+    },
+    {
+      "id": 3189,
+      "generation": 193,
+      "energy": 1.0,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.5654880368166944,
+        "mobility": 1.9403326876323848,
+        "fertility": 2.095517795289666
+      }
+    },
+    {
+      "id": 2907,
+      "generation": 181,
+      "energy": 13.79173077404058,
+      "age": 19,
+      "genome": {
+        "efficiency": 2.0527820516027053,
+        "mobility": 2.026012464453585,
+        "fertility": 1.3903086141143315
+      }
+    },
+    {
+      "id": 3067,
+      "generation": 188,
+      "energy": 1.745882171281373,
+      "age": 12,
+      "genome": {
+        "efficiency": 1.9152940570937913,
+        "mobility": 2.2061444668228014,
+        "fertility": 1.296477129053928
+      }
+    },
+    {
+      "id": 3248,
+      "generation": 195,
+      "energy": 7.087931330052179,
+      "age": 5,
+      "genome": {
+        "efficiency": 2.029310443350726,
+        "mobility": 1.6745948670663746,
+        "fertility": 1.1588520006559722
+      }
+    },
+    {
+      "id": 3180,
+      "generation": 193,
+      "energy": 1.0,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.7692594001683746,
+        "mobility": 2.069751331112548,
+        "fertility": 1.5369273586538534
+      }
+    },
+    {
+      "id": 3090,
+      "generation": 189,
+      "energy": 3.766162402706037,
+      "age": 11,
+      "genome": {
+        "efficiency": 1.7943604004510059,
+        "mobility": 1.3676227144503794,
+        "fertility": 1.8620791104199024
+      }
+    },
+    {
+      "id": 3292,
+      "generation": 197,
+      "energy": 3.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.806833944440124,
+        "mobility": 2.0788322271382618,
+        "fertility": 1.8337991337674135
+      }
+    },
+    {
+      "id": 3317,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.5398371020419674,
+        "mobility": 2.2258144174921832,
+        "fertility": 1.4884849759862897
+      }
+    },
+    {
+      "id": 3041,
+      "generation": 187,
+      "energy": 4.3366039892531845,
+      "age": 13,
+      "genome": {
+        "efficiency": 1.556100664875531,
+        "mobility": 1.7387288850902207,
+        "fertility": 1.5998975314276944
+      }
+    },
+    {
+      "id": 3094,
+      "generation": 189,
+      "energy": 13.671439096407394,
+      "age": 11,
+      "genome": {
+        "efficiency": 2.074604344045266,
+        "mobility": 2.1507697240494053,
+        "fertility": 1.205748863046612
+      }
+    },
+    {
+      "id": 2988,
+      "generation": 184,
+      "energy": 2.382887151141741,
+      "age": 16,
+      "genome": {
+        "efficiency": 1.730481191856957,
+        "mobility": 2.0747050130724305,
+        "fertility": 1.8399887006169822
+      }
+    },
+    {
+      "id": 3004,
+      "generation": 185,
+      "energy": 5.715815030370225,
+      "age": 15,
+      "genome": {
+        "efficiency": 1.8573127811522472,
+        "mobility": 1.8050097928500386,
+        "fertility": 1.7782622227637168
+      }
+    },
+    {
+      "id": 3276,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.4600544003548244,
+        "mobility": 1.699087404611411,
+        "fertility": 1.975021247058161
+      }
+    },
+    {
+      "id": 3284,
+      "generation": 197,
+      "energy": 10.560623321154049,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.8535411070513497,
+        "mobility": 2.057904360417875,
+        "fertility": 1.8861570047477263
+      }
+    },
+    {
+      "id": 2933,
+      "generation": 182,
+      "energy": 0.8477128122666571,
+      "age": 18,
+      "genome": {
+        "efficiency": 1.8079521353777765,
+        "mobility": 2.1550004026425524,
+        "fertility": 1.6885803490321982
+      }
+    },
+    {
+      "id": 3164,
+      "generation": 192,
+      "energy": 15.27075418804467,
+      "age": 8,
+      "genome": {
+        "efficiency": 1.9189726875605189,
+        "mobility": 1.8765199516011322,
+        "fertility": 1.7368301997211595
+      }
+    },
+    {
+      "id": 3166,
+      "generation": 192,
+      "energy": 0.9752796834592683,
+      "age": 8,
+      "genome": {
+        "efficiency": 1.6584265611530893,
+        "mobility": 2.0166633735648487,
+        "fertility": 1.295048766928859
+      }
+    },
+    {
+      "id": 3114,
+      "generation": 190,
+      "energy": 1.4969462262592241,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.8323154087530749,
+        "mobility": 1.8918066304608885,
+        "fertility": 1.7380460766692691
+      }
+    },
+    {
+      "id": 2643,
+      "generation": 168,
+      "energy": 6.653135577903443,
+      "age": 32,
+      "genome": {
+        "efficiency": 1.8406255037096877,
+        "mobility": 2.3341407684791666,
+        "fertility": 1.2990610398500502
+      }
+    },
+    {
+      "id": 3282,
+      "generation": 197,
+      "energy": 11.487997847959807,
+      "age": 3,
+      "genome": {
+        "efficiency": 2.1626659493199356,
+        "mobility": 1.8665657152235444,
+        "fertility": 1.6628501974812544
+      }
+    },
+    {
+      "id": 3304,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.321366045570894,
+        "mobility": 2.143608715605449,
+        "fertility": 1.7029159191824645
+      }
+    },
+    {
+      "id": 3312,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.6467701022735544,
+        "mobility": 2.569449877130702,
+        "fertility": 1.3295478506426113
+      }
+    },
+    {
+      "id": 3311,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.233632644584488,
+        "mobility": 2.3574481919694112,
+        "fertility": 1.3050254525767153
+      }
+    },
+    {
+      "id": 3081,
+      "generation": 188,
+      "energy": 1.2810008213847466,
+      "age": 12,
+      "genome": {
+        "efficiency": 1.760333607128249,
+        "mobility": 2.1481048111741234,
+        "fertility": 1.7383725840302877
+      }
+    },
+    {
+      "id": 3320,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.7717115832503654,
+        "mobility": 2.0291681997008366,
+        "fertility": 2.0423721250789804
+      }
+    },
+    {
+      "id": 3187,
+      "generation": 193,
+      "energy": 12.869225226285046,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.978204204380841,
+        "mobility": 1.965894668267982,
+        "fertility": 1.9514825987199265
+      }
+    },
+    {
+      "id": 3294,
+      "generation": 197,
+      "energy": 5.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.9231804048340522,
+        "mobility": 2.2952610676635743,
+        "fertility": 1.433664234829299
+      }
+    },
+    {
+      "id": 2999,
+      "generation": 185,
+      "energy": 5.69639449071912,
+      "age": 15,
+      "genome": {
+        "efficiency": 1.8551549434132357,
+        "mobility": 2.2369905720709404,
+        "fertility": 1.3425565857188466
+      }
+    },
+    {
+      "id": 3038,
+      "generation": 187,
+      "energy": 4.034235162160037,
+      "age": 13,
+      "genome": {
+        "efficiency": 1.83903919369334,
+        "mobility": 2.1102388853800123,
+        "fertility": 1.7519975508483774
+      }
+    },
+    {
+      "id": 3131,
+      "generation": 190,
+      "energy": 3.8279935060866777,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.9426645020288924,
+        "mobility": 2.4052808213911194,
+        "fertility": 1.416322593877034
+      }
+    },
+    {
+      "id": 2580,
+      "generation": 164,
+      "energy": 9.886418657281126,
+      "age": 36,
+      "genome": {
+        "efficiency": 1.9119341107200472,
+        "mobility": 2.012834817517279,
+        "fertility": 1.343656224890222
+      }
+    },
+    {
+      "id": 3288,
+      "generation": 197,
+      "energy": 5.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.941697183225307,
+        "mobility": 1.9161480737974153,
+        "fertility": 2.0061220337765207
+      }
+    },
+    {
+      "id": 3307,
+      "generation": 198,
+      "energy": 4.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.9281660044308153,
+        "mobility": 2.3306612962676687,
+        "fertility": 1.341678555569278
+      }
+    },
+    {
+      "id": 3207,
+      "generation": 194,
+      "energy": 2.0,
+      "age": 6,
+      "genome": {
+        "efficiency": 1.714819294414182,
+        "mobility": 2.60154825729398,
+        "fertility": 1.5865680364228825
+      }
+    },
+    {
+      "id": 3277,
+      "generation": 196,
+      "energy": 2.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 2.007024889519309,
+        "mobility": 1.9272300835605922,
+        "fertility": 1.5616553967842537
+      }
+    },
+    {
+      "id": 3222,
+      "generation": 195,
+      "energy": 6.316693169946728,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.772231056648909,
+        "mobility": 1.9121382026753666,
+        "fertility": 1.7401757671645885
+      }
+    },
+    {
+      "id": 2809,
+      "generation": 176,
+      "energy": 5.470235136527734,
+      "age": 24,
+      "genome": {
+        "efficiency": 1.955852928043978,
+        "mobility": 1.9374823288579508,
+        "fertility": 1.257180603357082
+      }
+    },
+    {
+      "id": 3314,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.5383477112931578,
+        "mobility": 2.0997421878812492,
+        "fertility": 1.5360769410445225
+      }
+    },
+    {
+      "id": 3332,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.8785591452213046,
+        "mobility": 1.9321056597798474,
+        "fertility": 1.4621462553954387
+      }
+    },
+    {
+      "id": 3181,
+      "generation": 193,
+      "energy": 4.177323595951567,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.7257745319838556,
+        "mobility": 2.6207338833233194,
+        "fertility": 1.595377188652509
+      }
+    },
+    {
+      "id": 3274,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.9855783178811859,
+        "mobility": 2.2398685273109336,
+        "fertility": 1.3673509957717878
+      }
+    },
+    {
+      "id": 3295,
+      "generation": 197,
+      "energy": 5.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 2.0831324733793224,
+        "mobility": 2.006964129621025,
+        "fertility": 1.7959774222661504
+      }
+    },
+    {
+      "id": 3078,
+      "generation": 188,
+      "energy": 4.460277419149275,
+      "age": 12,
+      "genome": {
+        "efficiency": 2.0767129031915457,
+        "mobility": 1.9796434594539347,
+        "fertility": 1.453817287792487
+      }
+    },
+    {
+      "id": 3212,
+      "generation": 194,
+      "energy": 6.363647049417745,
+      "age": 6,
+      "genome": {
+        "efficiency": 2.121215683139248,
+        "mobility": 2.3542000427062986,
+        "fertility": 1.781327667513179
+      }
+    },
+    {
+      "id": 3315,
+      "generation": 198,
+      "energy": 4.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.9357030125717865,
+        "mobility": 2.0878662133999937,
+        "fertility": 1.6875498213359732
+      }
+    },
+    {
+      "id": 3281,
+      "generation": 196,
+      "energy": 8.912580317217543,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.6375267724058473,
+        "mobility": 1.394867149238313,
+        "fertility": 1.7606946401008594
+      }
+    },
+    {
+      "id": 3256,
+      "generation": 196,
+      "energy": 16.06301133104746,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.7847790367830514,
+        "mobility": 2.0933494655436133,
+        "fertility": 1.8420084440931837
+      }
+    },
+    {
+      "id": 2649,
+      "generation": 168,
+      "energy": 3.852823709918738,
+      "age": 32,
+      "genome": {
+        "efficiency": 2.123521580661249,
+        "mobility": 2.0635138275513643,
+        "fertility": 1.8170430109115907
+      }
+    },
+    {
+      "id": 3268,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.724422310683659,
+        "mobility": 2.0631577756191977,
+        "fertility": 1.8284579327237267
+      }
+    },
+    {
+      "id": 3266,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.9040049764589417,
+        "mobility": 2.350778208216606,
+        "fertility": 1.3407329316623442
+      }
+    },
+    {
+      "id": 3216,
+      "generation": 194,
+      "energy": 2.0,
+      "age": 6,
+      "genome": {
+        "efficiency": 1.9715961645062694,
+        "mobility": 2.220555343388807,
+        "fertility": 1.45664868208435
+      }
+    },
+    {
+      "id": 3310,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 2.2983072076119035,
+        "mobility": 1.9189046262880955,
+        "fertility": 1.5808428059049644
+      }
+    },
+    {
+      "id": 3327,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.187752907412406,
+        "mobility": 2.601028842698378,
+        "fertility": 1.5187629648423957
+      }
+    },
+    {
+      "id": 3221,
+      "generation": 194,
+      "energy": 5.996059212647117,
+      "age": 6,
+      "genome": {
+        "efficiency": 1.3320197375490388,
+        "mobility": 1.7677790920755994,
+        "fertility": 1.9255950435856086
+      }
+    },
+    {
+      "id": 3254,
+      "generation": 196,
+      "energy": 9.57439115157491,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.8581303838583032,
+        "mobility": 1.9611365787434216,
+        "fertility": 1.7355375013259333
+      }
+    },
+    {
+      "id": 3333,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.78177281749573,
+        "mobility": 2.1227941919848434,
+        "fertility": 1.7706378557388778
+      }
+    },
+    {
+      "id": 3300,
+      "generation": 197,
+      "energy": 8.057201708417733,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.6857339028059108,
+        "mobility": 1.727066386441148,
+        "fertility": 1.89021233976908
+      }
+    },
+    {
+      "id": 3244,
+      "generation": 195,
+      "energy": 3.0,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.2218411591247922,
+        "mobility": 2.401920187586102,
+        "fertility": 1.5108638989294076
+      }
+    },
+    {
+      "id": 3229,
+      "generation": 195,
+      "energy": 3.0,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.233822630940846,
+        "mobility": 2.08133645901447,
+        "fertility": 1.5295927112692052
+      }
+    },
+    {
+      "id": 2910,
+      "generation": 181,
+      "energy": 19.85817898274791,
+      "age": 19,
+      "genome": {
+        "efficiency": 1.7143432768193285,
+        "mobility": 1.9969225159985868,
+        "fertility": 1.8127492855012792
+      }
+    },
+    {
+      "id": 3120,
+      "generation": 190,
+      "energy": 14.967614781381222,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.5806345651151017,
+        "mobility": 1.9454158365839926,
+        "fertility": 1.4184219430944958
+      }
+    },
+    {
+      "id": 3161,
+      "generation": 192,
+      "energy": 5.989815312533608,
+      "age": 8,
+      "genome": {
+        "efficiency": 1.996605104177869,
+        "mobility": 2.1364088176054765,
+        "fertility": 1.3732000499067345
+      }
+    },
+    {
+      "id": 2967,
+      "generation": 183,
+      "energy": 15.010598192904958,
+      "age": 17,
+      "genome": {
+        "efficiency": 2.1675498494087466,
+        "mobility": 1.7585054038809675,
+        "fertility": 1.5815697663161519
+      }
+    },
+    {
+      "id": 3111,
+      "generation": 190,
+      "energy": 3.588276933579631,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.862758977859877,
+        "mobility": 2.040850077243627,
+        "fertility": 1.8786616635916025
+      }
+    },
+    {
+      "id": 3063,
+      "generation": 188,
+      "energy": 0.30404712848508453,
+      "age": 12,
+      "genome": {
+        "efficiency": 2.101349042828361,
+        "mobility": 2.3823191696843,
+        "fertility": 1.7476792272347408
+      }
+    },
+    {
+      "id": 3088,
+      "generation": 189,
+      "energy": 2.0870460975868426,
+      "age": 11,
+      "genome": {
+        "efficiency": 1.6956820325289474,
+        "mobility": 2.0187321291924247,
+        "fertility": 1.6492702010496363
+      }
+    },
+    {
+      "id": 3330,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.8128029604141067,
+        "mobility": 2.0179015303528125,
+        "fertility": 2.0284355912318484
+      }
+    },
+    {
+      "id": 3234,
+      "generation": 195,
+      "energy": 9.597571502219981,
+      "age": 5,
+      "genome": {
+        "efficiency": 2.1991905007399937,
+        "mobility": 2.462971733791726,
+        "fertility": 1.3626972853190162
+      }
+    },
+    {
+      "id": 2766,
+      "generation": 174,
+      "energy": 15.16446359969149,
+      "age": 26,
+      "genome": {
+        "efficiency": 1.9535813110939717,
+        "mobility": 2.0309471264937025,
+        "fertility": 1.820545821600703
+      }
+    },
+    {
+      "id": 2842,
+      "generation": 177,
+      "energy": 15.106435694557764,
+      "age": 23,
+      "genome": {
+        "efficiency": 2.4070957129705173,
+        "mobility": 2.2541776133506697,
+        "fertility": 1.4381699896995173
+      }
+    },
+    {
+      "id": 3112,
+      "generation": 190,
+      "energy": 3.56135112319836,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.853783707732787,
+        "mobility": 2.032185962607985,
+        "fertility": 1.3457654322527208
+      }
+    },
+    {
+      "id": 3211,
+      "generation": 194,
+      "energy": 2.0,
+      "age": 6,
+      "genome": {
+        "efficiency": 1.5060968894281235,
+        "mobility": 2.4416966082031766,
+        "fertility": 1.6685846956788806
+      }
+    },
+    {
+      "id": 3240,
+      "generation": 195,
+      "energy": 1.0,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.6996359417653064,
+        "mobility": 1.6517463514340631,
+        "fertility": 1.8977578698393511
+      }
+    },
+    {
+      "id": 3204,
+      "generation": 193,
+      "energy": 7.504690658459875,
+      "age": 7,
+      "genome": {
+        "efficiency": 2.168230219486625,
+        "mobility": 2.047840365712179,
+        "fertility": 1.8249978876206088
+      }
+    },
+    {
+      "id": 2741,
+      "generation": 173,
+      "energy": 8.505453348412907,
+      "age": 27,
+      "genome": {
+        "efficiency": 1.3168484449470972,
+        "mobility": 2.581902647098907,
+        "fertility": 1.448590319375571
+      }
+    },
+    {
+      "id": 3269,
+      "generation": 196,
+      "energy": 2.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 2.033288035293575,
+        "mobility": 1.7614238458726186,
+        "fertility": 1.9983605093596541
+      }
+    },
+    {
+      "id": 3033,
+      "generation": 186,
+      "energy": 0.14263046490398423,
+      "age": 14,
+      "genome": {
+        "efficiency": 1.6904384108173307,
+        "mobility": 1.8479142121649568,
+        "fertility": 1.8009258158216945
+      }
+    },
+    {
+      "id": 3341,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.756909186493148,
+        "mobility": 1.78709167440457,
+        "fertility": 1.7756881988172057
+      }
+    },
+    {
+      "id": 3132,
+      "generation": 190,
+      "energy": 5.00262299963817,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.5004371666063618,
+        "mobility": 2.7156819967937746,
+        "fertility": 1.5529534807342025
+      }
+    },
+    {
+      "id": 3202,
+      "generation": 193,
+      "energy": 1.0,
+      "age": 7,
+      "genome": {
+        "efficiency": 2.0320437235885564,
+        "mobility": 2.1828682422852546,
+        "fertility": 1.4208847560049815
+      }
+    },
+    {
+      "id": 2895,
+      "generation": 180,
+      "energy": 2.267265524789515,
+      "age": 20,
+      "genome": {
+        "efficiency": 1.6889387937324596,
+        "mobility": 2.1110552998465897,
+        "fertility": 2.020642729037906
+      }
+    },
+    {
+      "id": 3329,
+      "generation": 199,
+      "energy": 5.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 1.5892964402011835,
+        "mobility": 2.0640024813693905,
+        "fertility": 1.3505440863997498
+      }
+    },
+    {
+      "id": 3157,
+      "generation": 191,
+      "energy": 1.758464612451034,
+      "age": 9,
+      "genome": {
+        "efficiency": 1.5861548708170112,
+        "mobility": 1.9912900914454295,
+        "fertility": 1.769855308951884
+      }
+    },
+    {
+      "id": 3313,
+      "generation": 198,
+      "energy": 6.0,
+      "age": 2,
+      "genome": {
+        "efficiency": 1.7456151617729185,
+        "mobility": 2.1799341399598795,
+        "fertility": 1.6817576834018615
+      }
+    },
+    {
+      "id": 2727,
+      "generation": 172,
+      "energy": 4.920605522153178,
+      "age": 28,
+      "genome": {
+        "efficiency": 1.6067003067862877,
+        "mobility": 2.2183594658792645,
+        "fertility": 1.7259031782459962
+      }
+    },
+    {
+      "id": 3059,
+      "generation": 188,
+      "energy": 9.751930976485669,
+      "age": 12,
+      "genome": {
+        "efficiency": 1.750214552942852,
+        "mobility": 1.7266016482262245,
+        "fertility": 1.9854668748350262
+      }
+    },
+    {
+      "id": 3280,
+      "generation": 196,
+      "energy": 7.811526192342463,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.9371753974474872,
+        "mobility": 2.0197950923441157,
+        "fertility": 1.3746667970271143
+      }
+    },
+    {
+      "id": 3169,
+      "generation": 192,
+      "energy": 7.189762258434655,
+      "age": 8,
+      "genome": {
+        "efficiency": 1.8649603764057758,
+        "mobility": 2.277561956493618,
+        "fertility": 2.3399730624653636
+      }
+    },
+    {
+      "id": 2909,
+      "generation": 181,
+      "energy": 5.237626376643199,
+      "age": 19,
+      "genome": {
+        "efficiency": 1.8531355313869333,
+        "mobility": 2.0816682548216234,
+        "fertility": 1.1529895800169356
+      }
+    },
+    {
+      "id": 3299,
+      "generation": 197,
+      "energy": 5.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.9634682821754037,
+        "mobility": 1.9626993375188666,
+        "fertility": 1.5608346095019754
+      }
+    },
+    {
+      "id": 3279,
+      "generation": 196,
+      "energy": 6.174617083101978,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.3915390277006594,
+        "mobility": 2.118303207073577,
+        "fertility": 1.3618122702410973
+      }
+    },
+    {
+      "id": 3275,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.7787970582779222,
+        "mobility": 2.0906572403067165,
+        "fertility": 1.5020144248312959
+      }
+    },
+    {
+      "id": 3335,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 2.2357625269815964,
+        "mobility": 2.0924026869871475,
+        "fertility": 1.181112454092813
+      }
+    },
+    {
+      "id": 3198,
+      "generation": 193,
+      "energy": 6.8073007799765435,
+      "age": 7,
+      "genome": {
+        "efficiency": 1.9357669266588482,
+        "mobility": 1.9647533854104995,
+        "fertility": 1.3086021137729407
+      }
+    },
+    {
+      "id": 3107,
+      "generation": 189,
+      "energy": 2.328522869567742,
+      "age": 11,
+      "genome": {
+        "efficiency": 1.8880871449279568,
+        "mobility": 1.9690497842931853,
+        "fertility": 1.8158185555969626
+      }
+    },
+    {
+      "id": 3176,
+      "generation": 192,
+      "energy": 5.338972680932674,
+      "age": 8,
+      "genome": {
+        "efficiency": 1.7796575603108913,
+        "mobility": 2.2067844558630574,
+        "fertility": 2.006549503012927
+      }
+    },
+    {
+      "id": 3142,
+      "generation": 191,
+      "energy": 5.289274689695095,
+      "age": 9,
+      "genome": {
+        "efficiency": 2.096424896565032,
+        "mobility": 2.048007708079111,
+        "fertility": 1.3646028598354978
+      }
+    },
+    {
+      "id": 3249,
+      "generation": 196,
+      "energy": 4.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.8808150171344011,
+        "mobility": 2.2547111310367773,
+        "fertility": 2.310191530325606
+      }
+    },
+    {
+      "id": 3246,
+      "generation": 195,
+      "energy": 9.031811215815964,
+      "age": 5,
+      "genome": {
+        "efficiency": 2.010603738605321,
+        "mobility": 2.258121539732863,
+        "fertility": 1.7681611228685106
+      }
+    },
+    {
+      "id": 3159,
+      "generation": 191,
+      "energy": 10.600405899922128,
+      "age": 9,
+      "genome": {
+        "efficiency": 1.9334009833203547,
+        "mobility": 2.3663113361468087,
+        "fertility": 1.6363965409160526
+      }
+    },
+    {
+      "id": 3113,
+      "generation": 190,
+      "energy": 3.1691875596202053,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.7230625198734015,
+        "mobility": 1.3571281688142105,
+        "fertility": 1.8710410427750586
+      }
+    },
+    {
+      "id": 2852,
+      "generation": 178,
+      "energy": 0.6286994000296939,
+      "age": 22,
+      "genome": {
+        "efficiency": 2.069855488892188,
+        "mobility": 2.2411727004271365,
+        "fertility": 1.39907107072882
+      }
+    },
+    {
+      "id": 3044,
+      "generation": 187,
+      "energy": 6.4745179520905864,
+      "age": 13,
+      "genome": {
+        "efficiency": 1.9124196586817643,
+        "mobility": 2.0746126474740123,
+        "fertility": 1.8300244818727622
+      }
+    },
+    {
+      "id": 3251,
+      "generation": 196,
+      "energy": 7.263536947549554,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.7545123158498515,
+        "mobility": 1.9836252393150904,
+        "fertility": 1.5661764256688786
+      }
+    },
+    {
+      "id": 2764,
+      "generation": 174,
+      "energy": 2.454173532746765,
+      "age": 26,
+      "genome": {
+        "efficiency": 2.0378477943955637,
+        "mobility": 2.2891446629865237,
+        "fertility": 1.6729047931340337
+      }
+    },
+    {
+      "id": 3272,
+      "generation": 196,
+      "energy": 2.0,
+      "age": 4,
+      "genome": {
+        "efficiency": 1.8402922711454408,
+        "mobility": 1.3439314803221352,
+        "fertility": 1.9232307507728361
+      }
+    },
+    {
+      "id": 2710,
+      "generation": 171,
+      "energy": 3.618089148093837,
+      "age": 29,
+      "genome": {
+        "efficiency": 1.9078726098729224,
+        "mobility": 2.0155627678834764,
+        "fertility": 1.973300363358733
+      }
+    },
+    {
+      "id": 2932,
+      "generation": 182,
+      "energy": 10.067994763147198,
+      "age": 18,
+      "genome": {
+        "efficiency": 2.2297771959052444,
+        "mobility": 2.012548210711232,
+        "fertility": 1.6434096244115242
+      }
+    },
+    {
+      "id": 3196,
+      "generation": 193,
+      "energy": 1.0,
+      "age": 7,
+      "genome": {
+        "efficiency": 2.441738945508046,
+        "mobility": 2.2703063642548655,
+        "fertility": 1.2601705354400758
+      }
+    },
+    {
+      "id": 2876,
+      "generation": 179,
+      "energy": 2.7813373961183885,
+      "age": 21,
+      "genome": {
+        "efficiency": 1.8151114496765326,
+        "mobility": 2.1256732736655493,
+        "fertility": 1.7352923499131607
+      }
+    },
+    {
+      "id": 3115,
+      "generation": 190,
+      "energy": 6.5107632302706655,
+      "age": 10,
+      "genome": {
+        "efficiency": 2.085127205045111,
+        "mobility": 2.164846763176323,
+        "fertility": 1.4663396434179492
+      }
+    },
+    {
+      "id": 2986,
+      "generation": 184,
+      "energy": 11.941189809565524,
+      "age": 16,
+      "genome": {
+        "efficiency": 1.729412653971035,
+        "mobility": 1.928276920510116,
+        "fertility": 1.4641466021908398
+      }
+    },
+    {
+      "id": 3178,
+      "generation": 192,
+      "energy": 3.660423814567471,
+      "age": 8,
+      "genome": {
+        "efficiency": 1.8868079381891572,
+        "mobility": 1.926300961765336,
+        "fertility": 1.7292102349212282
+      }
+    },
+    {
+      "id": 3126,
+      "generation": 190,
+      "energy": 6.1391808199683755,
+      "age": 10,
+      "genome": {
+        "efficiency": 1.6898634699947293,
+        "mobility": 1.9461639549363572,
+        "fertility": 1.8338335906187642
+      }
+    },
+    {
+      "id": 3060,
+      "generation": 188,
+      "energy": 2.2985559552034456,
+      "age": 12,
+      "genome": {
+        "efficiency": 2.0995186517344817,
+        "mobility": 2.2537528734867442,
+        "fertility": 1.7121482355722455
+      }
+    },
+    {
+      "id": 3287,
+      "generation": 197,
+      "energy": 5.0,
+      "age": 3,
+      "genome": {
+        "efficiency": 1.7882799560787872,
+        "mobility": 2.011633491627087,
+        "fertility": 1.8299804268841569
+      }
+    },
+    {
+      "id": 3236,
+      "generation": 195,
+      "energy": 3.0,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.7994016552588001,
+        "mobility": 1.891957744818797,
+        "fertility": 1.8410806688524082
+      }
+    },
+    {
+      "id": 3323,
+      "generation": 199,
+      "energy": 7.0,
+      "age": 1,
+      "genome": {
+        "efficiency": 2.01606659295416,
+        "mobility": 2.0016199322809722,
+        "fertility": 1.4779868839506474
+      }
+    },
+    {
+      "id": 3238,
+      "generation": 195,
+      "energy": 3.0,
+      "age": 5,
+      "genome": {
+        "efficiency": 1.5709969887883273,
+        "mobility": 2.619466278500154,
+        "fertility": 1.3207895678456696
+      }
+    },
+    {
+      "id": 3134,
+      "generation": 191,
+      "energy": 7.812809018994997,
+      "age": 9,
+      "genome": {
+        "efficiency": 1.468801503165833,
+        "mobility": 2.354558253113962,
+        "fertility": 1.3536779733797613
+      }
+    },
+    {
+      "id": 3343,
+      "generation": 200,
       "energy": 8.0,
       "age": 0,
       "genome": {
-        "efficiency": 1.5263616324624503,
-        "mobility": 1.9127621231385246,
-        "fertility": 1.2696723912196537
+        "efficiency": 1.3970196632007337,
+        "mobility": 2.173213141006178,
+        "fertility": 1.6550844117366346
+      }
+    },
+    {
+      "id": 3344,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.8390947289352209,
+        "mobility": 2.1126920725753817,
+        "fertility": 1.6201783147330553
+      }
+    },
+    {
+      "id": 3345,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.7751091637600322,
+        "mobility": 1.8689979811976132,
+        "fertility": 2.1579285590010144
+      }
+    },
+    {
+      "id": 3346,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.8519592971963847,
+        "mobility": 1.959918780572972,
+        "fertility": 1.358270502541508
+      }
+    },
+    {
+      "id": 3347,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.77651396941361,
+        "mobility": 2.0461697161358474,
+        "fertility": 1.815377004854354
+      }
+    },
+    {
+      "id": 3348,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.9169407224322659,
+        "mobility": 2.194956031751063,
+        "fertility": 1.0875821630929485
+      }
+    },
+    {
+      "id": 3349,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.8667781339665164,
+        "mobility": 2.1986797197035797,
+        "fertility": 1.5124168865605063
+      }
+    },
+    {
+      "id": 3350,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.8648025534484138,
+        "mobility": 1.932443092356753,
+        "fertility": 1.8660360344414957
+      }
+    },
+    {
+      "id": 3351,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.293689522287095,
+        "mobility": 2.4855426711335333,
+        "fertility": 1.4936018190106388
+      }
+    },
+    {
+      "id": 3352,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 2.467554217775828,
+        "mobility": 2.3586604901682833,
+        "fertility": 1.433190517480976
+      }
+    },
+    {
+      "id": 3353,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.890943223316611,
+        "mobility": 1.6411818083287182,
+        "fertility": 1.7899363936711639
+      }
+    },
+    {
+      "id": 3354,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 2.423148023099599,
+        "mobility": 2.3015949996549585,
+        "fertility": 1.6173097371367455
+      }
+    },
+    {
+      "id": 3355,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 2.095558807699985,
+        "mobility": 2.048934589340885,
+        "fertility": 1.4354267937851202
+      }
+    },
+    {
+      "id": 3356,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 2.137268220415963,
+        "mobility": 2.0523193643934574,
+        "fertility": 1.505409864249423
+      }
+    },
+    {
+      "id": 3357,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.7433664441078678,
+        "mobility": 2.220564016283256,
+        "fertility": 1.8058437272049237
+      }
+    },
+    {
+      "id": 3358,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.6681126163758748,
+        "mobility": 1.9791368215570695,
+        "fertility": 1.3901071139617656
+      }
+    },
+    {
+      "id": 3359,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.9223330246810248,
+        "mobility": 1.9462568406808745,
+        "fertility": 1.7862743443180447
+      }
+    },
+    {
+      "id": 3360,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 2.485492274108231,
+        "mobility": 2.209200076091293,
+        "fertility": 1.2242681293950195
+      }
+    },
+    {
+      "id": 3361,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 2.1790479753558434,
+        "mobility": 2.4040425007201534,
+        "fertility": 1.4836864605537203
+      }
+    },
+    {
+      "id": 3362,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.8715701120405326,
+        "mobility": 1.9523681823828136,
+        "fertility": 1.9196154220253339
+      }
+    },
+    {
+      "id": 3363,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.809589989678292,
+        "mobility": 2.0605386343122105,
+        "fertility": 1.6908959307386444
+      }
+    },
+    {
+      "id": 3364,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.7462677730534917,
+        "mobility": 2.099969845840126,
+        "fertility": 1.8016801854666908
+      }
+    },
+    {
+      "id": 3365,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 2.324933822412025,
+        "mobility": 2.257541912462481,
+        "fertility": 1.4683085577790114
+      }
+    },
+    {
+      "id": 3366,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.9884722331926832,
+        "mobility": 1.7003838263748374,
+        "fertility": 1.967033978631641
+      }
+    },
+    {
+      "id": 3367,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.719620388495439,
+        "mobility": 2.087924961388449,
+        "fertility": 2.033424359873096
+      }
+    },
+    {
+      "id": 3368,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.5871813787293243,
+        "mobility": 2.0639376453601868,
+        "fertility": 1.3175511643464541
+      }
+    },
+    {
+      "id": 3369,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.4191411520587296,
+        "mobility": 2.067929075035988,
+        "fertility": 1.4628299199415835
+      }
+    },
+    {
+      "id": 3370,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.8335931246562724,
+        "mobility": 1.594184618189323,
+        "fertility": 1.9419686136396181
+      }
+    },
+    {
+      "id": 3371,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.9057392441528336,
+        "mobility": 1.9689921753079822,
+        "fertility": 1.9206968151851236
+      }
+    },
+    {
+      "id": 3372,
+      "generation": 200,
+      "energy": 8.0,
+      "age": 0,
+      "genome": {
+        "efficiency": 1.9129662251304111,
+        "mobility": 1.950129266669836,
+        "fertility": 1.7540504191207964
       }
     }
   ],
@@ -4459,6 +4921,1306 @@
         "efficiency": 1.5921,
         "mobility": 1.7254,
         "fertility": 1.4905
+      }
+    },
+    {
+      "generation": 101,
+      "population": 287,
+      "survivors": 270,
+      "births": 17,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.5978,
+        "mobility": 1.7323,
+        "fertility": 1.4904
+      }
+    },
+    {
+      "generation": 102,
+      "population": 282,
+      "survivors": 271,
+      "births": 11,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6055,
+        "mobility": 1.7407,
+        "fertility": 1.4941
+      }
+    },
+    {
+      "generation": 103,
+      "population": 285,
+      "survivors": 268,
+      "births": 17,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6048,
+        "mobility": 1.7434,
+        "fertility": 1.496
+      }
+    },
+    {
+      "generation": 104,
+      "population": 272,
+      "survivors": 261,
+      "births": 11,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6119,
+        "mobility": 1.747,
+        "fertility": 1.5007
+      }
+    },
+    {
+      "generation": 105,
+      "population": 270,
+      "survivors": 252,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6075,
+        "mobility": 1.758,
+        "fertility": 1.4971
+      }
+    },
+    {
+      "generation": 106,
+      "population": 274,
+      "survivors": 250,
+      "births": 24,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6116,
+        "mobility": 1.7621,
+        "fertility": 1.4947
+      }
+    },
+    {
+      "generation": 107,
+      "population": 272,
+      "survivors": 254,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6144,
+        "mobility": 1.7701,
+        "fertility": 1.4987
+      }
+    },
+    {
+      "generation": 108,
+      "population": 276,
+      "survivors": 259,
+      "births": 17,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6142,
+        "mobility": 1.7662,
+        "fertility": 1.4962
+      }
+    },
+    {
+      "generation": 109,
+      "population": 274,
+      "survivors": 259,
+      "births": 15,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6197,
+        "mobility": 1.7764,
+        "fertility": 1.5007
+      }
+    },
+    {
+      "generation": 110,
+      "population": 269,
+      "survivors": 250,
+      "births": 19,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6283,
+        "mobility": 1.7726,
+        "fertility": 1.5117
+      }
+    },
+    {
+      "generation": 111,
+      "population": 268,
+      "survivors": 248,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6348,
+        "mobility": 1.7735,
+        "fertility": 1.5113
+      }
+    },
+    {
+      "generation": 112,
+      "population": 277,
+      "survivors": 264,
+      "births": 13,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6363,
+        "mobility": 1.7768,
+        "fertility": 1.5091
+      }
+    },
+    {
+      "generation": 113,
+      "population": 284,
+      "survivors": 268,
+      "births": 16,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6437,
+        "mobility": 1.7795,
+        "fertility": 1.5106
+      }
+    },
+    {
+      "generation": 114,
+      "population": 274,
+      "survivors": 256,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6477,
+        "mobility": 1.7955,
+        "fertility": 1.5138
+      }
+    },
+    {
+      "generation": 115,
+      "population": 272,
+      "survivors": 251,
+      "births": 21,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6504,
+        "mobility": 1.8054,
+        "fertility": 1.5163
+      }
+    },
+    {
+      "generation": 116,
+      "population": 270,
+      "survivors": 249,
+      "births": 21,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6605,
+        "mobility": 1.812,
+        "fertility": 1.5076
+      }
+    },
+    {
+      "generation": 117,
+      "population": 264,
+      "survivors": 252,
+      "births": 12,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6723,
+        "mobility": 1.8182,
+        "fertility": 1.5113
+      }
+    },
+    {
+      "generation": 118,
+      "population": 268,
+      "survivors": 247,
+      "births": 21,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.674,
+        "mobility": 1.8225,
+        "fertility": 1.5134
+      }
+    },
+    {
+      "generation": 119,
+      "population": 272,
+      "survivors": 251,
+      "births": 21,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6758,
+        "mobility": 1.8137,
+        "fertility": 1.5135
+      }
+    },
+    {
+      "generation": 120,
+      "population": 275,
+      "survivors": 260,
+      "births": 15,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6739,
+        "mobility": 1.822,
+        "fertility": 1.5132
+      }
+    },
+    {
+      "generation": 121,
+      "population": 285,
+      "survivors": 256,
+      "births": 29,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6742,
+        "mobility": 1.8258,
+        "fertility": 1.5133
+      }
+    },
+    {
+      "generation": 122,
+      "population": 285,
+      "survivors": 264,
+      "births": 21,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6722,
+        "mobility": 1.8332,
+        "fertility": 1.5186
+      }
+    },
+    {
+      "generation": 123,
+      "population": 291,
+      "survivors": 266,
+      "births": 25,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6793,
+        "mobility": 1.8368,
+        "fertility": 1.5317
+      }
+    },
+    {
+      "generation": 124,
+      "population": 283,
+      "survivors": 269,
+      "births": 14,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6803,
+        "mobility": 1.8396,
+        "fertility": 1.5397
+      }
+    },
+    {
+      "generation": 125,
+      "population": 283,
+      "survivors": 266,
+      "births": 17,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6753,
+        "mobility": 1.8354,
+        "fertility": 1.5373
+      }
+    },
+    {
+      "generation": 126,
+      "population": 288,
+      "survivors": 270,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6793,
+        "mobility": 1.8349,
+        "fertility": 1.5395
+      }
+    },
+    {
+      "generation": 127,
+      "population": 284,
+      "survivors": 263,
+      "births": 21,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.683,
+        "mobility": 1.8336,
+        "fertility": 1.5425
+      }
+    },
+    {
+      "generation": 128,
+      "population": 284,
+      "survivors": 266,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6859,
+        "mobility": 1.8298,
+        "fertility": 1.5449
+      }
+    },
+    {
+      "generation": 129,
+      "population": 280,
+      "survivors": 260,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6887,
+        "mobility": 1.8313,
+        "fertility": 1.548
+      }
+    },
+    {
+      "generation": 130,
+      "population": 284,
+      "survivors": 265,
+      "births": 19,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6896,
+        "mobility": 1.8301,
+        "fertility": 1.55
+      }
+    },
+    {
+      "generation": 131,
+      "population": 293,
+      "survivors": 265,
+      "births": 28,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6938,
+        "mobility": 1.8352,
+        "fertility": 1.5529
+      }
+    },
+    {
+      "generation": 132,
+      "population": 307,
+      "survivors": 281,
+      "births": 26,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6944,
+        "mobility": 1.8394,
+        "fertility": 1.5579
+      }
+    },
+    {
+      "generation": 133,
+      "population": 311,
+      "survivors": 292,
+      "births": 19,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6922,
+        "mobility": 1.8457,
+        "fertility": 1.5615
+      }
+    },
+    {
+      "generation": 134,
+      "population": 323,
+      "survivors": 297,
+      "births": 26,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6946,
+        "mobility": 1.8473,
+        "fertility": 1.5613
+      }
+    },
+    {
+      "generation": 135,
+      "population": 318,
+      "survivors": 297,
+      "births": 21,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6928,
+        "mobility": 1.8514,
+        "fertility": 1.5564
+      }
+    },
+    {
+      "generation": 136,
+      "population": 309,
+      "survivors": 294,
+      "births": 15,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6887,
+        "mobility": 1.8637,
+        "fertility": 1.5594
+      }
+    },
+    {
+      "generation": 137,
+      "population": 299,
+      "survivors": 286,
+      "births": 13,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6923,
+        "mobility": 1.866,
+        "fertility": 1.5555
+      }
+    },
+    {
+      "generation": 138,
+      "population": 303,
+      "survivors": 283,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6937,
+        "mobility": 1.8701,
+        "fertility": 1.5585
+      }
+    },
+    {
+      "generation": 139,
+      "population": 293,
+      "survivors": 283,
+      "births": 10,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6969,
+        "mobility": 1.8757,
+        "fertility": 1.5638
+      }
+    },
+    {
+      "generation": 140,
+      "population": 298,
+      "survivors": 273,
+      "births": 25,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6953,
+        "mobility": 1.8794,
+        "fertility": 1.5608
+      }
+    },
+    {
+      "generation": 141,
+      "population": 296,
+      "survivors": 273,
+      "births": 23,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7024,
+        "mobility": 1.8763,
+        "fertility": 1.5604
+      }
+    },
+    {
+      "generation": 142,
+      "population": 299,
+      "survivors": 280,
+      "births": 19,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7003,
+        "mobility": 1.8763,
+        "fertility": 1.5631
+      }
+    },
+    {
+      "generation": 143,
+      "population": 303,
+      "survivors": 284,
+      "births": 19,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7015,
+        "mobility": 1.879,
+        "fertility": 1.5551
+      }
+    },
+    {
+      "generation": 144,
+      "population": 294,
+      "survivors": 280,
+      "births": 14,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7003,
+        "mobility": 1.8799,
+        "fertility": 1.5501
+      }
+    },
+    {
+      "generation": 145,
+      "population": 293,
+      "survivors": 275,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6993,
+        "mobility": 1.8817,
+        "fertility": 1.5454
+      }
+    },
+    {
+      "generation": 146,
+      "population": 292,
+      "survivors": 271,
+      "births": 21,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6937,
+        "mobility": 1.8889,
+        "fertility": 1.5419
+      }
+    },
+    {
+      "generation": 147,
+      "population": 296,
+      "survivors": 269,
+      "births": 27,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6997,
+        "mobility": 1.8895,
+        "fertility": 1.5498
+      }
+    },
+    {
+      "generation": 148,
+      "population": 305,
+      "survivors": 275,
+      "births": 30,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.6979,
+        "mobility": 1.89,
+        "fertility": 1.5514
+      }
+    },
+    {
+      "generation": 149,
+      "population": 309,
+      "survivors": 287,
+      "births": 22,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7006,
+        "mobility": 1.8864,
+        "fertility": 1.562
+      }
+    },
+    {
+      "generation": 150,
+      "population": 321,
+      "survivors": 300,
+      "births": 21,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7011,
+        "mobility": 1.889,
+        "fertility": 1.5685
+      }
+    },
+    {
+      "generation": 151,
+      "population": 318,
+      "survivors": 295,
+      "births": 23,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.702,
+        "mobility": 1.8916,
+        "fertility": 1.574
+      }
+    },
+    {
+      "generation": 152,
+      "population": 313,
+      "survivors": 300,
+      "births": 13,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7032,
+        "mobility": 1.893,
+        "fertility": 1.5669
+      }
+    },
+    {
+      "generation": 153,
+      "population": 312,
+      "survivors": 297,
+      "births": 15,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7076,
+        "mobility": 1.8909,
+        "fertility": 1.5756
+      }
+    },
+    {
+      "generation": 154,
+      "population": 305,
+      "survivors": 288,
+      "births": 17,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7136,
+        "mobility": 1.8906,
+        "fertility": 1.5789
+      }
+    },
+    {
+      "generation": 155,
+      "population": 298,
+      "survivors": 275,
+      "births": 23,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7135,
+        "mobility": 1.8999,
+        "fertility": 1.5821
+      }
+    },
+    {
+      "generation": 156,
+      "population": 288,
+      "survivors": 271,
+      "births": 17,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7143,
+        "mobility": 1.9052,
+        "fertility": 1.5788
+      }
+    },
+    {
+      "generation": 157,
+      "population": 280,
+      "survivors": 269,
+      "births": 11,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7107,
+        "mobility": 1.908,
+        "fertility": 1.5818
+      }
+    },
+    {
+      "generation": 158,
+      "population": 284,
+      "survivors": 265,
+      "births": 19,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7111,
+        "mobility": 1.9088,
+        "fertility": 1.578
+      }
+    },
+    {
+      "generation": 159,
+      "population": 275,
+      "survivors": 263,
+      "births": 12,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7098,
+        "mobility": 1.9085,
+        "fertility": 1.5799
+      }
+    },
+    {
+      "generation": 160,
+      "population": 282,
+      "survivors": 262,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7081,
+        "mobility": 1.9084,
+        "fertility": 1.5846
+      }
+    },
+    {
+      "generation": 161,
+      "population": 285,
+      "survivors": 267,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7045,
+        "mobility": 1.9214,
+        "fertility": 1.583
+      }
+    },
+    {
+      "generation": 162,
+      "population": 285,
+      "survivors": 265,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7008,
+        "mobility": 1.93,
+        "fertility": 1.5752
+      }
+    },
+    {
+      "generation": 163,
+      "population": 292,
+      "survivors": 270,
+      "births": 22,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7007,
+        "mobility": 1.9337,
+        "fertility": 1.5748
+      }
+    },
+    {
+      "generation": 164,
+      "population": 288,
+      "survivors": 269,
+      "births": 19,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7097,
+        "mobility": 1.9322,
+        "fertility": 1.5804
+      }
+    },
+    {
+      "generation": 165,
+      "population": 288,
+      "survivors": 269,
+      "births": 19,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7153,
+        "mobility": 1.9382,
+        "fertility": 1.5862
+      }
+    },
+    {
+      "generation": 166,
+      "population": 283,
+      "survivors": 265,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7165,
+        "mobility": 1.9421,
+        "fertility": 1.5894
+      }
+    },
+    {
+      "generation": 167,
+      "population": 280,
+      "survivors": 263,
+      "births": 17,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7189,
+        "mobility": 1.9503,
+        "fertility": 1.5994
+      }
+    },
+    {
+      "generation": 168,
+      "population": 285,
+      "survivors": 263,
+      "births": 22,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7275,
+        "mobility": 1.9543,
+        "fertility": 1.6074
+      }
+    },
+    {
+      "generation": 169,
+      "population": 285,
+      "survivors": 267,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7289,
+        "mobility": 1.9627,
+        "fertility": 1.6066
+      }
+    },
+    {
+      "generation": 170,
+      "population": 292,
+      "survivors": 269,
+      "births": 23,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.732,
+        "mobility": 1.9712,
+        "fertility": 1.603
+      }
+    },
+    {
+      "generation": 171,
+      "population": 283,
+      "survivors": 269,
+      "births": 14,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7358,
+        "mobility": 1.9777,
+        "fertility": 1.6067
+      }
+    },
+    {
+      "generation": 172,
+      "population": 285,
+      "survivors": 263,
+      "births": 22,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7332,
+        "mobility": 1.984,
+        "fertility": 1.6033
+      }
+    },
+    {
+      "generation": 173,
+      "population": 282,
+      "survivors": 267,
+      "births": 15,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7279,
+        "mobility": 1.9888,
+        "fertility": 1.6024
+      }
+    },
+    {
+      "generation": 174,
+      "population": 279,
+      "survivors": 257,
+      "births": 22,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7354,
+        "mobility": 1.9917,
+        "fertility": 1.5949
+      }
+    },
+    {
+      "generation": 175,
+      "population": 290,
+      "survivors": 262,
+      "births": 28,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7497,
+        "mobility": 1.991,
+        "fertility": 1.6014
+      }
+    },
+    {
+      "generation": 176,
+      "population": 289,
+      "survivors": 269,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7511,
+        "mobility": 1.996,
+        "fertility": 1.6002
+      }
+    },
+    {
+      "generation": 177,
+      "population": 292,
+      "survivors": 272,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7542,
+        "mobility": 2.0064,
+        "fertility": 1.5946
+      }
+    },
+    {
+      "generation": 178,
+      "population": 298,
+      "survivors": 278,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7501,
+        "mobility": 2.0141,
+        "fertility": 1.5906
+      }
+    },
+    {
+      "generation": 179,
+      "population": 308,
+      "survivors": 285,
+      "births": 23,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7572,
+        "mobility": 2.017,
+        "fertility": 1.5931
+      }
+    },
+    {
+      "generation": 180,
+      "population": 309,
+      "survivors": 291,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7551,
+        "mobility": 2.0257,
+        "fertility": 1.5923
+      }
+    },
+    {
+      "generation": 181,
+      "population": 308,
+      "survivors": 291,
+      "births": 17,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7567,
+        "mobility": 2.0288,
+        "fertility": 1.5842
+      }
+    },
+    {
+      "generation": 182,
+      "population": 313,
+      "survivors": 287,
+      "births": 26,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7538,
+        "mobility": 2.0311,
+        "fertility": 1.5918
+      }
+    },
+    {
+      "generation": 183,
+      "population": 310,
+      "survivors": 290,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7544,
+        "mobility": 2.0345,
+        "fertility": 1.5916
+      }
+    },
+    {
+      "generation": 184,
+      "population": 310,
+      "survivors": 287,
+      "births": 23,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7493,
+        "mobility": 2.0329,
+        "fertility": 1.5944
+      }
+    },
+    {
+      "generation": 185,
+      "population": 317,
+      "survivors": 293,
+      "births": 24,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7533,
+        "mobility": 2.0379,
+        "fertility": 1.5961
+      }
+    },
+    {
+      "generation": 186,
+      "population": 316,
+      "survivors": 296,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7601,
+        "mobility": 2.0378,
+        "fertility": 1.6032
+      }
+    },
+    {
+      "generation": 187,
+      "population": 318,
+      "survivors": 296,
+      "births": 22,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7582,
+        "mobility": 2.0462,
+        "fertility": 1.5975
+      }
+    },
+    {
+      "generation": 188,
+      "population": 325,
+      "survivors": 297,
+      "births": 28,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7631,
+        "mobility": 2.0489,
+        "fertility": 1.6098
+      }
+    },
+    {
+      "generation": 189,
+      "population": 321,
+      "survivors": 298,
+      "births": 23,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7683,
+        "mobility": 2.0469,
+        "fertility": 1.6143
+      }
+    },
+    {
+      "generation": 190,
+      "population": 322,
+      "survivors": 299,
+      "births": 23,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7746,
+        "mobility": 2.0437,
+        "fertility": 1.6141
+      }
+    },
+    {
+      "generation": 191,
+      "population": 333,
+      "survivors": 306,
+      "births": 27,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7784,
+        "mobility": 2.0486,
+        "fertility": 1.6208
+      }
+    },
+    {
+      "generation": 192,
+      "population": 329,
+      "survivors": 309,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7864,
+        "mobility": 2.0495,
+        "fertility": 1.6261
+      }
+    },
+    {
+      "generation": 193,
+      "population": 327,
+      "survivors": 301,
+      "births": 26,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.8017,
+        "mobility": 2.046,
+        "fertility": 1.6188
+      }
+    },
+    {
+      "generation": 194,
+      "population": 323,
+      "survivors": 307,
+      "births": 16,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.8003,
+        "mobility": 2.0517,
+        "fertility": 1.6269
+      }
+    },
+    {
+      "generation": 195,
+      "population": 326,
+      "survivors": 299,
+      "births": 27,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.7989,
+        "mobility": 2.0531,
+        "fertility": 1.6303
+      }
+    },
+    {
+      "generation": 196,
+      "population": 340,
+      "survivors": 307,
+      "births": 33,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.8087,
+        "mobility": 2.0531,
+        "fertility": 1.6245
+      }
+    },
+    {
+      "generation": 197,
+      "population": 333,
+      "survivors": 313,
+      "births": 20,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.8205,
+        "mobility": 2.0471,
+        "fertility": 1.6235
+      }
+    },
+    {
+      "generation": 198,
+      "population": 326,
+      "survivors": 308,
+      "births": 18,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.8259,
+        "mobility": 2.0594,
+        "fertility": 1.6232
+      }
+    },
+    {
+      "generation": 199,
+      "population": 326,
+      "survivors": 303,
+      "births": 23,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.8286,
+        "mobility": 2.0691,
+        "fertility": 1.6182
+      }
+    },
+    {
+      "generation": 200,
+      "population": 329,
+      "survivors": 299,
+      "births": 30,
+      "food_eaten": 35,
+      "food_remaining": 0,
+      "average_traits": {
+        "efficiency": 1.8376,
+        "mobility": 2.0711,
+        "fertility": 1.6184
       }
     }
   ],
