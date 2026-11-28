@@ -31,12 +31,21 @@ def latest_records(limit=20):
 
 
 def main():
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    # GitHub secrets can accidentally contain copied whitespace/newlines.
+    # Strip surrounding whitespace before passing the value to urllib headers.
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     if not api_key:
         print("Claude review skipped: ANTHROPIC_API_KEY is not configured.")
         return 0
+    if not api_key.isascii() or any(ord(char) < 33 or ord(char) > 126 for char in api_key):
+        print(
+            "Claude review skipped: ANTHROPIC_API_KEY contains invalid header characters. "
+            "Update the GitHub secret with the raw API key only, without quotes or line breaks.",
+            file=sys.stderr,
+        )
+        return 1
 
-    model = os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-5-20250929")
+    model = os.environ.get("ANTHROPIC_MODEL", "").strip() or "claude-sonnet-4-5-20250929"
     records = latest_records()
     if not records:
         print("Claude review skipped: no experiment records found.")
@@ -104,6 +113,15 @@ def main():
     try:
         with urllib.request.urlopen(request, timeout=90) as response:
             result = json.loads(response.read().decode("utf-8"))
+    except ValueError as error:
+        # Avoid exposing the secret while explaining local header validation failures.
+        print(
+            "Claude request could not be prepared. Check that the GitHub API-key secret "
+            "contains only the raw key, with no surrounding quotes or embedded newlines. "
+            f"Details: {error}",
+            file=sys.stderr,
+        )
+        return 1
     except urllib.error.HTTPError as error:
         detail = error.read().decode("utf-8", errors="replace")
         print(f"Claude API returned HTTP {error.code}: {detail}", file=sys.stderr)
